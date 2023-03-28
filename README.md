@@ -47,6 +47,10 @@
 ***2019 IEEE ACCESS*** Deep Supervised Hashing Based on Stable Distribution(`DHSHD`)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2019 Neuro*** Deep balanced discrete hashing for image retrieval(`DBDH`)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
+#### Graph-Unsupervised  
+***2021 MM*** Two-pronged Strategy Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Code1]](https://github.com/christinecui/LAGNH)[[Code2]](https://github.com/chenyd7/LGCNH)  
+#### Graph-Supervised  
+***2020 TCYB*** Graph Convolutional Network Hashing(`GCN`)[[Code]](https://github.com/zxJohnFly/GCN)  
 ### Cross-Modal  
 #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)  
@@ -117,4 +121,12 @@
 ***2022 JoI*** A Framework for Enabling Unpaired Multi-Modal Learning for Deep Cross-Modal Hashing Retrieval(`UMML`)[[Code]](https://github.com/MikelWL/UMML)  
 ***2022 arXiv*** Prototype-Based Layered Federated Cross-Modal Hashing(`PLFedCMH`)[[Code]](https://github.com/CarreLiu/PLFedCMH)  
 ***2022 arXiv*** Adaptive Marginalized Semantic Hashing for Unpaired Cross-Modal Retrieval(`AMSH`)[[Code]](https://github.com/LKYLKYZ/AMSH)  
+#### Graph-Unsupervised  
+***2022 TMM*** Aggregation-Based Graph Convolutional Hashing for Unsupervised Cross-Modal Retrieval(`AGCH`)  
+#### Graph-Supervised  
+***2021 MM*** Local Graph Convolutional Networks for Cross-Modal Hashing(`LGCNH`)[[Code]](https://github.com/chenyd7/LGCNH)  
+***2019 IJCAI*** Graph Convolutional Network Hashing for Cross-Modal Retrieval(`GCH`)[[Code]](https://github.com/DeXie0808/GCH)  
+***2020 ICIP*** Semi-Supervised_Graph_Convolutional_Hashing_Network_For_Large-Scale_Cross-Modal_Retrieval(`SGCN`)[[Code]](https://github.com/flyingjohn/Cross_Modal_GCN)  
+***2021 MM*** Graph Convolutional Multi-modal Hashing for Flexible Multimedia Retrieval(`GCMH`)  
+***2022 TMM*** Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval(`ALGCN`)[[Code]](https://github.com/LivXue/ALGCN)  
 
