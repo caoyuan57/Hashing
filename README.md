@@ -80,4 +80,5 @@
 ***2022 TCSVT*** Deep Adaptively-Enhanced Hashing with Discriminative Similarity Guidance for Unsupervised Cross-modal Retrieval(`DAEH`)[[Code]](https://github.com/reresearcher/DAEH)  
 ***2022 arXiv*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Code]](https://github.com/comrados/duch)  
 ***2023 TPAMI*** Unsupervised Contrastive Cross-modal Hashing(`UCCH`)[[Code]](https://github.com/penghu-cs/UCCH)  
+#### Deep-Supervised  
 
