@@ -129,4 +129,55 @@
 ***2020 ICIP*** Semi-Supervised_Graph_Convolutional_Hashing_Network_For_Large-Scale_Cross-Modal_Retrieval(`SGCN`)[[Code]](https://github.com/flyingjohn/Cross_Modal_GCN)  
 ***2021 MM*** Graph Convolutional Multi-modal Hashing for Flexible Multimedia Retrieval(`GCMH`)  
 ***2022 TMM*** Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval(`ALGCN`)[[Code]](https://github.com/LivXue/ALGCN)  
-
+## Online  
+### Single-Modal  
+#### Traditional-Supervised  
+***2013 IJCAI*** Online hashing(`OKH`)[[Code]](https://github.com/chenshen03/OnlineHash)  
+***2015 ICCV*** Adaptive hashing for fast similarity search(`AdaptHash`)[[Code]](https://github.com/chenshen03/OnlineHash)  
+***2015 ICIP*** Online supervised hashing(`OSH`)[[Code]](https://github.com/chenshen03/OnlineHash)  
+***2017 ICCV/2019 TPAMI*** Online Hashing with Mutual Information(`MIHash`)[[Code]](https://github.com/fcakir/mihash)  
+***2018 MM*** Supervised Online Hashing via Hadamard Codebook Learning(`HCOH`)[[Code1]](https://github.com/TreezzZ/HCOH_Pytorch)[[Code2]](https://github.com/lmbxmu/mycode/tree/master/2018ACMMM_HCOH)  
+***2019 AAAI*** Towards Optimal Discrete Online Hashing with Balanced Similarity(`BSODH`)[[Code]](https://github.com/lmbxmu/mycode/tree/master/2019AAAI_BSODH)  
+***2019 AAAI*** Online Hashing with Efficient Updating of Binary Codes(`OHWEU`)[[Code]](https://github.com/zyweng2pku/online_hashing_with_effcient_updating)  
+***2019 TPAMI*** Fast Class-wise Updating for Online Hashing(`FCOH`)  
+***2019 CLUSTER*** Parallel image search application based on online hashing hierarchical ranking(`MAPREDUCE`)  
+***2019 Neuro*** A fast online spherical hashing method based on data sampling for large scale image retrieval(`OSpH`)  
+***2019 ACCESS*** Online Supervised Sketching Hashing for Large-Scale Image Retrieval(`OSSH`)  
+***2020 TIP*** Similarity-Preserving Linkage Hashing for Online Image Retrieval(`SPLH`)  
+***2020 SIGIR*** Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval(`OCMFH`)  
+***2020 IJCV*** Hadamard Matrix Guided Online Hashing(`HMOH`)[[Code]](https://github.com/lmbxmu/mycode/tree/master/2020IJCV_HMOH)  
+***2021 arXiv*** Online Hashing with Similarity Learning(`OHSL`)  
+***2021 ICME*** Weakly-Supervised Online Hashing(`WHO`)  
+***2021 TMM*** Online Hashing With Bit Selection for Image Retrieval(`OSelH`)  
+***2021 JVCIR*** Label projection online hashing for balanced similarity(`LPOH`)  
+***2021 AAAI*** Asynchronous Teacher Guided Bit-wise Hard Mining for Online Hashing(`ATHOH`)  
+#### Traditional-Unsupervised  
+***2015 CVPR*** Online sketching hashing(`OSH`)[[Code]](https://github.com/cvpr2015-submission/online-sketching-hashing)  
+***2021 TKDE*** Making Online Sketching Hashing Even Faster(`DFROSH`)  
+#### Deep-Supervised  
+***2022 ISCI*** Online deep hashing for both uni-modal and cross-modal retrieval(`ODHUC`)  
+### Cross-Modal  
+#### Traditional-Supervised  
+***2016 AAAI*** Online Cross-Modal Hashing for Web Image Retrieval(`CMH`)  
+***2017 IJCAI*** Dynamic Multi-View Hashing for Online Image Retrieval(`DMVH`)  
+***2019 SIGIR*** Online Multi-modal Hashing with Dynamic Query-adaption(`OMHDQ`)  
+***2019 MM*** Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval(`FOMH`)  
+***2020 MM*** Label Embedding Online Hashing for Cross-Modal Retrieval(`LEMON`)[[Code]](https://github.com/yxinwang/LEMON-MM2020)  
+***2021 ICME*** Efficient Online Label Consistent Hashing for Large-Scale Cross-Modal Retrieval(`OLCH`)  
+***2022 AAAI*** Online Enhanced Semantic Hashing: Towards Effective and Efficient Retrieval for Streaming Multi-Modal Data(`OASIS`)  
+***2022 ICME*** Online Robust Specific and Consistent Hashing(`ORSCH`)  
+***2022 PR*** Discrete online cross-modal hashing(`DLFH`)  
+***2022 TMM*** OMGH: Online Manifold-Guided Hashing for Flexible Cross-modal Retrieval(`OMGH`)  
+***2022 TOIS*** Efficient Multi-modal Hashing with Online Query Adaption for Multimedia Retrieval(`MHOQA`)[[Code]](https://github.com/ChaoqunZheng/MH-OQA)  
+***2023 arXiv*** Three-Step Hashing for Online Cross-Modal Retrieval(`THOR`)[[Code]](https://github.com/yw-zhan/THOR)  
+#### Traditional-Unsupervised  
+***2022 APIN*** Online unsupervised cross-view discrete hashing for large-scale retrieval(`OUCDH`)  
+#### Deep-Supervised  
+***2022 KBS*** Deep online cross-modal hashing by a co-training mechanism(`DOCHCM`)  
+## Remote Sensing  
+### Single-Modal  
+#### Deep-Unsupervised  
+***2021 TGRS*** Deep Hash Learning for Remote Sensing Image Retrieval(`DHL`)[[Code]](https://git.tu-berlin.de/rsim/duch)  
+### Cross-Modal  
+#### Deep-Unsupervised  
+***2022 CVPR*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Code]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval)  
