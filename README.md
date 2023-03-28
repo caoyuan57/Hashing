@@ -2,4 +2,4 @@
 # 文章分类  
 ## Batch  
 ### Traditional  
-1998 STOC Approximate nearest neighbors: Towards removing the curse of dimensionality(LSH) [code](https://github.com/RUSH-LAB/LSH_Memory "悬停显示")  
+1998 STOC Approximate nearest neighbors: Towards removing the curse of dimensionality(LSH) [[code]](https://github.com/RUSH-LAB/LSH_Memory "悬停显示")  
