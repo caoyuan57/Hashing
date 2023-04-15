@@ -132,9 +132,9 @@
 ***2020 ICIP*** Semi-Supervised_Graph_Convolutional_Hashing_Network_For_Large-Scale_Cross-Modal_Retrieval(`SGCN`)[[Code]](https://github.com/flyingjohn/Cross_Modal_GCN)  
 ***2021 MM*** Graph Convolutional Multi-modal Hashing for Flexible Multimedia Retrieval(`GCMH`)  
 ***2022 TMM*** Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval(`ALGCN`)[[Code]](https://github.com/LivXue/ALGCN)  
-## Online  
-### Single-Modal  
-#### Traditional-Supervised  
+## 😍Online  
+### 😄Single-Modal  
+* #### Traditional-Supervised  
 ***2013 IJCAI*** Online hashing(`OKH`)[[Code]](https://github.com/chenshen03/OnlineHash)  
 ***2015 ICCV*** Adaptive hashing for fast similarity search(`AdaptHash`)[[Code]](https://github.com/chenshen03/OnlineHash)  
 ***2015 ICIP*** Online supervised hashing(`OSH`)[[Code]](https://github.com/chenshen03/OnlineHash)  
@@ -154,13 +154,13 @@
 ***2021 TMM*** Online Hashing With Bit Selection for Image Retrieval(`OSelH`)  
 ***2021 JVCIR*** Label projection online hashing for balanced similarity(`LPOH`)  
 ***2021 AAAI*** Asynchronous Teacher Guided Bit-wise Hard Mining for Online Hashing(`ATHOH`)  
-#### Traditional-Unsupervised  
+* #### Traditional-Unsupervised  
 ***2015 CVPR*** Online sketching hashing(`OSH`)[[Code]](https://github.com/cvpr2015-submission/online-sketching-hashing)  
 ***2021 TKDE*** Making Online Sketching Hashing Even Faster(`DFROSH`)  
-#### Deep-Supervised  
+* #### Deep-Supervised  
 ***2022 ISCI*** Online deep hashing for both uni-modal and cross-modal retrieval(`ODHUC`)  
-### Cross-Modal  
-#### Traditional-Supervised  
+### 😄Cross-Modal  
+* #### Traditional-Supervised  
 ***2016 AAAI*** Online Cross-Modal Hashing for Web Image Retrieval(`CMH`)  
 ***2017 IJCAI*** Dynamic Multi-View Hashing for Online Image Retrieval(`DMVH`)  
 ***2019 SIGIR*** Online Multi-modal Hashing with Dynamic Query-adaption(`OMHDQ`)  
@@ -175,12 +175,12 @@
 ***2023 arXiv*** Three-Step Hashing for Online Cross-Modal Retrieval(`THOR`)[[Code]](https://github.com/yw-zhan/THOR)  
 #### Traditional-Unsupervised  
 ***2022 APIN*** Online unsupervised cross-view discrete hashing for large-scale retrieval(`OUCDH`)  
-#### Deep-Supervised  
+* #### Deep-Supervised  
 ***2022 KBS*** Deep online cross-modal hashing by a co-training mechanism(`DOCHCM`)  
-## Remote Sensing  
-### Single-Modal  
-#### Deep-Unsupervised  
+## 😍Remote Sensing  
+### 😄Single-Modal  
+* #### Deep-Unsupervised  
 ***2021 TGRS*** Deep Hash Learning for Remote Sensing Image Retrieval(`DHL`)[[Code]](https://git.tu-berlin.de/rsim/duch)  
-### Cross-Modal  
-#### Deep-Unsupervised  
+### 😄Cross-Modal  
+* #### Deep-Unsupervised  
 ***2022 CVPR*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Code]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval)  
