@@ -1,5 +1,4 @@
-# Hashing  
-# 文章分类  
+# Hashing文章分类  
 ## 😍CNN  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
