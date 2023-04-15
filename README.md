@@ -48,7 +48,7 @@
 ***2019 Neuro*** Deep balanced discrete hashing for image retrieval(`DBDH`)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
 ### 😄Cross-Modal  
-#### * Traditional-Unsupervised  
+* #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)  
 ***2011 IJCAI*** Learning hash functions for cross-view similarity search(`CVH`)[[Code]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2013 SIGKDD*** Inter-media hashing for large-scale retrieval from heterogeneous data sources(`IMH`)[[Code]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -58,7 +58,7 @@
 ***2017 CVPR*** Cross-Modality Binary Code Learning via Fusion Similarity Hashing(`FSH`)[[Code]](https://github.com/LynnHongLiu/FSH)  
 ***2017 TCYB*** Semi-paired discrete hashing: Learning latent hash codes for semi-paired cross-view retrieval(`SPDH`)  
 ***2018 TCSVT*** Robust and flexible discrete hashing for cross-modal similarity search(`RFDH`)[[Cde]](https://github.com/Wangdi-Xidian/RFDH)  
-#### * Deep-Unsupervised  
+* #### Deep-Unsupervised  
 ***2018 AAAI*** Unsupervised Generative Adversarial Cross-modal Hashing(`UGACH`)[[Code1]](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018)[[Code2]](https://github.com/zjmonk/UGACH)  
 ***2018 CVPR*** Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval(`SSAH`)[[Code1]](https://github.com/zyfsa/cvpr2018-SSAH)[[Code2]](https://github.com/SincereJoy/SSAH_CVPR2018)[[Code3]](https://github.com/lelan-li/SSAH)[[Code4]](https://github.com/haitao-hub-stu/SSAH)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2018 ECCV*** Attention-aware Deep Adversarial Hashing for Cross-Modal Retrieval(`ADAH`)[[Code]](https://github.com/zhongzhh8/Cross-Modal-Retrieval)  
@@ -80,7 +80,7 @@
 ***2022 TCSVT*** Deep Adaptively-Enhanced Hashing with Discriminative Similarity Guidance for Unsupervised Cross-modal Retrieval(`DAEH`)[[Code]](https://github.com/reresearcher/DAEH)  
 ***2022 arXiv*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Code]](https://github.com/comrados/duch)  
 ***2023 TPAMI*** Unsupervised Contrastive Cross-modal Hashing(`UCCH`)[[Code]](https://github.com/penghu-cs/UCCH)  
-#### * Deep-Supervised  
+* #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2017 MM*** Adversarial Cross-Modal Retrieval(`ACMR`)[[Code]](https://github.com/cuishuhao/ACMR)  
 ***2017 AAAI*** Collective Deep Quantization for Efficient Cross-Modal Retrieval(`CDQ`)[[Code]](https://github.com/caoyue10/aaai17-cdq)  
@@ -119,14 +119,14 @@
 ***2022 arXiv*** Adaptive Marginalized Semantic Hashing for Unpaired Cross-Modal Retrieval(`AMSH`)[[Code]](https://github.com/LKYLKYZ/AMSH)  
 ## 😍Graph  
 ### 😄Single-Modal  
-#### * Unsupervised  
+* #### Unsupervised  
 ***2021 MM*** Two-pronged Strategy Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Code1]](https://github.com/christinecui/LAGNH)[[Code2]](https://github.com/chenyd7/LGCNH)  
-#### * Supervised  
+* #### Supervised  
 ***2020 TCYB*** Graph Convolutional Network Hashing(`GCN`)[[Code]](https://github.com/zxJohnFly/GCN)  
 ### 😄Cross-Modal  
-#### * Unsupervised  
+* #### Unsupervised  
 ***2022 TMM*** Aggregation-Based Graph Convolutional Hashing for Unsupervised Cross-Modal Retrieval(`AGCH`)  
-#### * Supervised  
+* #### Supervised  
 ***2021 MM*** Local Graph Convolutional Networks for Cross-Modal Hashing(`LGCNH`)[[Code]](https://github.com/chenyd7/LGCNH)  
 ***2019 IJCAI*** Graph Convolutional Network Hashing for Cross-Modal Retrieval(`GCH`)[[Code]](https://github.com/DeXie0808/GCH)  
 ***2020 ICIP*** Semi-Supervised_Graph_Convolutional_Hashing_Network_For_Large-Scale_Cross-Modal_Retrieval(`SGCN`)[[Code]](https://github.com/flyingjohn/Cross_Modal_GCN)  
