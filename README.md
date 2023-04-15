@@ -117,6 +117,7 @@
 ***2022 JoI*** A Framework for Enabling Unpaired Multi-Modal Learning for Deep Cross-Modal Hashing Retrieval(`UMML`)[[Code]](https://github.com/MikelWL/UMML)  
 ***2022 arXiv*** Prototype-Based Layered Federated Cross-Modal Hashing(`PLFedCMH`)[[Code]](https://github.com/CarreLiu/PLFedCMH)  
 ***2022 arXiv*** Adaptive Marginalized Semantic Hashing for Unpaired Cross-Modal Retrieval(`AMSH`)[[Code]](https://github.com/LKYLKYZ/AMSH)  
+****
 ## 😍Graph  
 ### 😄Single-Modal  
 * #### Unsupervised  
