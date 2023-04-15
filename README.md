@@ -133,6 +133,7 @@
 ***2020 ICIP*** Semi-Supervised_Graph_Convolutional_Hashing_Network_For_Large-Scale_Cross-Modal_Retrieval(`SGCN`)[[Code]](https://github.com/flyingjohn/Cross_Modal_GCN)  
 ***2021 MM*** Graph Convolutional Multi-modal Hashing for Flexible Multimedia Retrieval(`GCMH`)  
 ***2022 TMM*** Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval(`ALGCN`)[[Code]](https://github.com/LivXue/ALGCN)  
+****
 ## 😍Online  
 ### 😄Single-Modal  
 * #### Traditional-Supervised  
@@ -178,6 +179,7 @@
 ***2022 APIN*** Online unsupervised cross-view discrete hashing for large-scale retrieval(`OUCDH`)  
 * #### Deep-Supervised  
 ***2022 KBS*** Deep online cross-modal hashing by a co-training mechanism(`DOCHCM`)  
+****
 ## 😍Remote Sensing  
 ### 😄Single-Modal  
 * #### Deep-Unsupervised  
@@ -185,3 +187,4 @@
 ### 😄Cross-Modal  
 * #### Deep-Unsupervised  
 ***2022 CVPR*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Code]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval)  
+****
