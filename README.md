@@ -27,7 +27,7 @@
 ***2021 ICCV*** Self-supervised Product Quantization for Deep Unsupervised Image Retrieval(`SPQ`)[[Code]](https://github.com/youngkyunJang/SPQ)  
 ***2022 AAAI*** Deep Unsupervised Hashing with Latent Semantic Components(`DSCH`)  
 ***2022 Neuro*** Unsupervised deep hashing with pretrained semantic information distillation and preservation(`PSIDP`)  
-#### Deep-Supervised  
+ * #### Deep-Supervised  
 ***2015 CVPR*** Deep Learning of Binary Hash Codes for Fast Image Retrieval(`DLBC`)[[Code]](https://github.com/flyingpot/pytorch_deephash)  
 ***2020 CVPR*** Self-supervised asymmetric deep hashing with margin-scalable constraint(`SADH`)[[Code]](https://github.com/SWU-CS-MediaLab/SADH)  
 ***2016 CVPR*** Deep Supervised Hashing for Fast ImaDeep Supervised Hashing for Fast Image Retrievalge Retrieval(`DSH`)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/weixu000/DSH-pytorch)  
