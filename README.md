@@ -42,8 +42,8 @@
 ***2018 CVPR*** Deep cauchy hashing for hamming space retrieval(`DCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578232)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2019 BMVC*** Push for Quantization: Deep Fisher Hashing(`DFH`)[[Paper]](https://arxiv.org/pdf/1909.00206.pdf)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing)  
 ***2019 TMM*** Improved Deep Hashing with Soft Pairwise Similarity for Multi-label Image(`IDHN`)[[Paper]](https://arxiv.org/pdf/1803.02987.pdf)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/pectinid16/IDHN)  
-***2019 ICCV*** Deep Supervised Hashing with Anchor Graph(`DAGH`)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://www.scholat.com/personalPaperList.html?Entry=laizhihui&selectType=allPaper)  
-***2019 IEEE ACCESS*** Deep Supervised Hashing Based on Stable Distribution(`DHSHD`)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
+***2019 ICCV*** Deep Supervised Hashing with Anchor Graph(`DAGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010953)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://www.scholat.com/personalPaperList.html?Entry=laizhihui&selectType=allPaper)  
+***2019 IEEE ACCESS*** Deep Supervised Hashing Based on Stable Distribution(`DHSHD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8648432)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2019 Neuro*** Deep balanced discrete hashing for image retrieval(`DBDH`)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
 ### 😄Cross-Modal  
