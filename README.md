@@ -10,8 +10,8 @@
 ***2014 TCYB*** Density sensitive hashing(`DSH`)[[Paper]](https://arxiv.org/pdf/1205.2930v1.pdf)[[Code]](http://www.cad.zju.edu.cn/home/dengcai/Data/DSH.html)  
 * #### Deep-Unsupervised  
 ***2015 CVPR*** Deep Hashing for Compact Binary Codes Learning(`DH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298862)  
-***2016 CVPR/2019 TPAMI*** Learning compact binary descriptors with unsupervised deep neural networks(`DeepBit`)[[Code]](https://github.com/kevinlin311tw/cvpr16-deepbit)  
-***2017 ICML*** Stochastic generative hashing(`SGH`)[[Code]](https://github.com/zhangcheng-007/Stochastic_Generative_Hashing)  
+***2016 CVPR/2019 TPAMI*** Learning compact binary descriptors with unsupervised deep neural networks(`DeepBit`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780502)[[Code]](https://github.com/kevinlin311tw/cvpr16-deepbit)  
+***2017 ICML*** Stochastic generative hashing(`SGH`)[[Paper]](https://arxiv.org/pdf/1701.02815.pdf)[[Code]](https://github.com/zhangcheng-007/Stochastic_Generative_Hashing)  
 ***2018 AAAI/2020 IJCV*** Binary generative adversarial networks for image retrieval(`BGAN`)[[Code]](https://github.com/ht014/BGAN)  
 ***2018 NIPS*** Greedy hash: Towards fast optimization for accurate hash coding in cnn(`GreedyHash`)[[Code1]](https://github.com/ssppp/GreedyHash)[[Code2]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2018 NIPS*** Bingan: Learning compact binary descriptors with a regularized gan(`BinGAN`)[[Code]](https://github.com/maciejzieba/binGAN)  
