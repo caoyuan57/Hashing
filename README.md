@@ -1,4 +1,4 @@
-# Hashing文章分类  
+# Classification + Papers + Codes of Hashing based Retrieval Methods  
 ## 😍CNN  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
