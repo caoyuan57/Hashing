@@ -48,7 +48,12 @@
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156349)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
 ***2015 CVPR*** Supervised Discrete Hashing(`SDH`)[[Code]](https://github.com/TreezzZ/SDH_PyTorch)  
-
+***2018 TPAMI*** Supervised Learning of Semantics-Preserving Deep Hashing(`SSDH`)[[Code]](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode)  
+***2018 IJCAI*** Semantic Structure-based Unsupervised Deep Hashing(`SSDH`)[[Code]](https://github.com/TreezzZ/SSDH_PyTorch)  
+***2018 CVPR*** Dual Asymmetric Deep Hashing Learning(`DADH`)[[Code]](https://github.com/deepakks1995/DeepHashing)  
+***2020 ECCV*** Targeted Attack for Deep Hashing based Retrieval(`DHTA`)[[Code]](https://github.com/jiawangbai/DHTA-master)  
+***2020 NIPS*** One Loss for All: Deep Hashing with a Single Cosine Similarity based Learning Objective(`OrthoHash`)[[Code]](https://github.com/kamwoh/orthohash)  
+***2022 MM*** HyP2 Loss : Beyond Hypersphere Metric Space for Multi-label Image Retrieval(`HyP2-Loss`)[[Code]](https://github.com/JerryXu0129/HyP2-Loss)  
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)  
