@@ -46,6 +46,9 @@
 ***2019 IEEE ACCESS*** Deep Supervised Hashing Based on Stable Distribution(`DHSHD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8648432)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2019 Neuro*** Deep balanced discrete hashing for image retrieval(`DBDH`)[[Paper]](https://www.nstl.gov.cn/paper_detail.html?id=9a19912e72e38fd09e0a9e2a0c5eb1cf)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156349)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
+***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
+***2015 CVPR*** Supervised Discrete Hashing(`SDH`)[[Code]](https://github.com/TreezzZ/SDH_PyTorch)  
+
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)  
