@@ -1,5 +1,5 @@
 # Hashing based Approximate Nearest Neighbor Search Methods: <span style="color: blue"> Papers + Codes </span>
-## 😍CNN  
+## 😍Normal  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
 ***1998 STOC*** Approximate nearest neighbors: Towards removing the curse of dimensionality(`LSH`)[[Paper]](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1A183B4D95F7F4C394DFBDFD2DA950CC?doi=10.1.1.390.7411&rep=rep1&type=pdf)[[Code1]](https://github.com/RUSH-LAB/LSH_Memory)[[Code2]](https://github.com/TreezzZ/LSH_PyTorch)  
