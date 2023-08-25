@@ -1,4 +1,4 @@
-# Hashing based Approximate Nearest Neighbor Search Methods <span style="color:red;"> Papers + Codes
+# Hashing based Approximate Nearest Neighbor Search Methods <style="color:red;"> Papers + Codes
 ## 😍CNN  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
