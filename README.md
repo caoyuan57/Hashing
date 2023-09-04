@@ -119,6 +119,14 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TCSVT*** Learnable Locality-Sensitive Hashing for Video Anomaly Detection(`LLSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882128)[[Code]](https://github.com/wayson20/LLSHforVAD)  
 ***2023 TGRS*** Deep Saliency Smoothing Hashing for Drone Image Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065512)  
 ***2023 TKDE*** Intra-Category Aware Hierarchical Supervised Document Hashing(`IHDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740429)[[Code]](https://github.com/Academic-Hammer/IHDH)  
+***2023 TKDE*** LASH: Large-Scale Academic Deep Semantic Hashing(`LASH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529077)[[Code]](https://github.com/Academic-Hammer/LASH)  
+***2023 TKDE*** Zero-Shot Hashing via Asymmetric Ratio Similarity Matrix(`ZSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712384)  
+***2023 TMM*** Deep Neighborhood Structure-Preserving Hashing for Large-Scale Image Retrieval(`DNSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177242)  
+***2023 TMM*** Knowledge Distillation Hashing for Occluded Face Retrieval(`KDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10048551)  
+***2023 TNNLS*** Bit Reduction for Locality-Sensitive Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097753)  
+***2023 TMM*** Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval(`LSCSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050825)[[Code]](https://github.com/lzHZWZ/LSCSH sourcecode.git)  
+***2023 TIP*** Hierarchical Hashing Learning for Image Set Classification(`HHL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061433)  
+***2023 TIP*** Multi-Label Hashing for Dependency Relations Among Multiple Objectives(`DRMH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061482)[[Code]](https://github.com/plk-t/DRMH)  
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539928)
