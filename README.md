@@ -1,4 +1,4 @@
-![image](https://github.com/caoyuan57/Hashing/assets/66508571/0122bce4-0db6-4b3f-8579-3c308876619b)# Hashing based Approximate Nearest Neighbor Search Methods: <span style="color: blue"> Papers + Codes </span>
+# Hashing based Approximate Nearest Neighbor Search Methods: <span style="color: blue"> Papers + Codes </span>
 ## 😍Normal  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
