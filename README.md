@@ -109,7 +109,16 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2022 IJCAI*** A Probabilistic Code Balance Constraint with Compactness and Informativeness Enhancement for Deep Supervised Hashing[[Paper]](https://opus.lib.uts.edu.au/bitstream/10453/161427/2/43.%20IJCAI.%202022.%20Qi.pdf)[[Code]](https://github.com/mumuxi/dshwr)  
 ***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval(`ACHNet`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)[[Code]](https://github.com/KUXN98/ACHNet)  
 ***2022 MM*** Webly Supervised Image Hashing with Lightweight Semantic Transfer Network(`WSIH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548342)[[Code]](https://github.com/christinecui/WSIH)  
-***2022 MM*** HyP2 Loss : Beyond Hypersphere Metric Space for Multi-label Image Retrieval(`HyP2-Loss`)[[Code]](https://github.com/JerryXu0129/HyP2-Loss)  
+***2022 MM*** HyP² Loss : Beyond Hypersphere Metric Space for Multi-label Image Retrieval(`HyP2-Loss`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548032)[[Code]](https://github.com/JerryXu0129/HyP2-Loss)  
+***2023 CVPR*** Deep Hashing With Minimal-Distance-Separated Hash Centers[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Deep_Hashing_With_Minimal-Distance-Separated_Hash_Centers_CVPR_2023_paper.pdf)[[Code]](https://github.com/Wangld5/Center-Hashing)  
+***2023 SIGIR*** Asymmetric Hashing for Fast Ranking via Neural Network Measures[[Paper]](https://arxiv.org/pdf/2211.00619.pdf)  
+***2023 SIGIR*** SCHash: Speedy Simplicial Complex Neural Networks via Randomized Hashing(`SCHash`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591762)[[Code]](https://github.com/drhash-cn/graph-hashing)  
+***2023 TBD*** Deep Incremental Hashing for Semantic Image Retrieval With Concept Drift(`DIH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10004724)  
+***2023 TBD*** Supervised Discrete Multiple-Length Hashing for Image Retrieval(`SDMLH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741323)  
+***2023 TCSVT*** Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval(`DAQH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10142014)  
+***2023 TCSVT*** Learnable Locality-Sensitive Hashing for Video Anomaly Detection(`LLSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882128)[[Code]](https://github.com/wayson20/LLSHforVAD)  
+***2023 TGRS*** Deep Saliency Smoothing Hashing for Drone Image Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065512)  
+***2023 TKDE*** Intra-Category Aware Hierarchical Supervised Document Hashing(`IHDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740429)[[Code]](https://github.com/Academic-Hammer/IHDH)  
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539928)
