@@ -1,4 +1,4 @@
-# Hashing based Approximate Nearest Neighbor Search Methods: <span style="color: blue"> Papers + Codes </span>
+![image](https://github.com/caoyuan57/Hashing/assets/66508571/0122bce4-0db6-4b3f-8579-3c308876619b)# Hashing based Approximate Nearest Neighbor Search Methods: <span style="color: blue"> Papers + Codes </span>
 ## 😍Normal  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised  
@@ -61,7 +61,6 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2018 AAAI*** Asymmetric Deep Supervised Hashing(`ADSH`)[[Paper]](https://arxiv.org/pdf/1707.08325.pdf)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/TreezzZ/ADSH_PyTorch)[[Code3]](https://github.com/jiangqy/ADSH-AAAI2018)  
 ***2018 IJCAI*** Semantic Structure-based Unsupervised Deep Hashing(`SSDH`)[[Paper]](https://see.xidian.edu.cn/faculty/chdeng/Welcome%20to%20Cheng%20Deng's%20Homepage_files/Papers/Conference/IJCAI2018_Yang.pdf)[[Code]](https://github.com/TreezzZ/SSDH_PyTorch)  
 ***2018 CVPR*** Deep cauchy hashing for hamming space retrieval(`DCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578232)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
-***2018 CVPR*** Dual Asymmetric Deep Hashing Learning(`DADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8758410)[[Code]](https://github.com/deepakks1995/DeepHashing)   
 ***2018 ECCV*** ForestHash: Semantic Hashing with Shallow Random Forests and Tiny Convolutional Networks(`ForestHash`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Qiang_Qiu_ForestHash_Semantic_Hashing_ECCV_2018_paper.pdf)  
 ***2018 ECCV*** Hashing with Binary Matrix Pursuit(`HBMP`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fatih_Cakir_Hashing_with_Binary_ECCV_2018_paper.pdf)[[Code]](https://github.com/fcakir/hbmp)  
 ***2018 ECCV*** Relaxation-Free Deep Hashing via Policy Gradient[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Yuan_Towards_Optimal_Deep_ECCV_2018_paper.pdf)  
@@ -74,11 +73,26 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2019 TMM*** Improved Deep Hashing with Soft Pairwise Similarity for Multi-label Image(`IDHN`)[[Paper]](https://arxiv.org/pdf/1803.02987.pdf)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/pectinid16/IDHN)  
 ***2019 ICCV*** Deep Supervised Hashing with Anchor Graph(`DAGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010953)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://www.scholat.com/personalPaperList.html?Entry=laizhihui&selectType=allPaper)  
 ***2019 IEEE ACCESS*** Deep Supervised Hashing Based on Stable Distribution(`DHSHD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8648432)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
+***2019 IEEE ACCESS*** Dual Asymmetric Deep Hashing Learning(`DADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8758410)[[Code]](https://github.com/deepakks1995/DeepHashing)   
 ***2019 Neuro*** Deep balanced discrete hashing for image retrieval(`DBDH`)[[Paper]](https://www.nstl.gov.cn/paper_detail.html?id=9a19912e72e38fd09e0a9e2a0c5eb1cf)[[Code]](https://github.com/swuxyj/DeepHash-pytorch)  
 ***2020 CVPR*** Central Similarity Quantization for Efficient Image and Video Retrieval(`CSQ`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156349)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)    
 ***2020 CVPR*** Self-supervised asymmetric deep hashing with margin-scalable constraint(`SADH`)[[Paper]](https://arxiv.org/pdf/2012.03820v2.pdf)[[Code]](https://github.com/SWU-CS-MediaLab/SADH)  
 ***2020 ECCV*** Targeted Attack for Deep Hashing based Retrieval(`DHTA`)[[Paper]](https://arxiv.org/pdf/2004.07955.pdf)[[Code]](https://github.com/jiawangbai/DHTA-master)  
 ***2020 NIPS*** One Loss for All: Deep Hashing with a Single Cosine Similarity based Learning Objective(`OrthoHash`)[[Paper]](https://proceedings.neurips.cc/paper/2021/file/cbcb58ac2e496207586df2854b17995f-Paper.pdf)[[Code]](https://github.com/kamwoh/orthohash)  
+***2020 ECCV*** Deep Hashing with Active Pairwise Supervision(`DH-APS`)[[Paper]](https://ziweiwangthu.github.io/data/3281.pdf)  
+***2020 ECCV*** Deep Hash Distillation for Image Retrieval(`DHD`)[[Paper]](https://arxiv.org/pdf/2112.08816.pdf)[[Code]](https://github.com/youngkyunjang/deep-hash-distillation)  
+***2021 MM*** Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Paper]](https://arxiv.org/pdf/2108.03914.pdf)[[Code]](https://github.com/christinecui/LAGNH)  
+***2021 MM*** Weighted Gaussian Loss based Hamming Hashing(`WGLHH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475498)[[Code]](https://github.com/rongchengtu1/WGLHH)  
+***2021 SIGIR*** Long-Tail Hashing(`LTHNet`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462888)[[Code]](https://github.com/butterfly-chinese/long-tail-hashing/)  
+***2021 SIGIR*** Binary Neural Network Hashing for Image Retrieval(`BNNH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462896)  
+***2021 TCSVT*** Deep Semantic Reconstruction Hashing for Similarity Retrieval(`DSRH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9001029)  
+***2021 TCSVT*** Deep Transfer Hashing for Image Retrieval(`DTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082051)  
+***2021 TCSVT*** Dual-Level Semantic Transfer Deep Hashing for Efficient Social Image Retrieval(`DSTDH`)[[Paper]](https://arxiv.org/pdf/2006.05586.pdf)[[Code]](https://github.com/research2020-1/DSTDH)  
+***2021 TCYB*** Deep Category-Level and Regularized Hashing With Global Semantic Similarity Learning(`DCRH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9011740)  
+***2021 TIP*** Adversarial Multi-Label Variational Hashing(`AMVH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259229)  
+***2021 TIP*** Deep Multiple Instance Hashing for Fast Multi-Object Image Search(`DMIH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9547059)  
+***2021 TIP*** Learning Efficient Hash Codes for Fast Graph-Based Data Similarity Retrieval(`HGNN`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9474952)  
+***2021 TKDE*** Collaborative Learning for Extremely Low Bit Asymmetric Hashing(`MAH`)[[Paper]](https://arxiv.org/pdf/1809.09329.pdf)[[Code]](https://github.com/Luoyadan/MAH-Pytorch)  
 ***2022 MM*** HyP2 Loss : Beyond Hypersphere Metric Space for Multi-label Image Retrieval(`HyP2-Loss`)[[Code]](https://github.com/JerryXu0129/HyP2-Loss)  
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
