@@ -325,7 +325,6 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 APIN*** Online unsupervised cross-view discrete hashing for large-scale retrieval(`OUCDH`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s10489-021-03014-w.pdf?pdf=button)  
 * #### Deep-Supervised  
 ***2022 KBS*** Deep online cross-modal hashing by a co-training mechanism(`DOCHCM`)[[Paper]](Deep online cross-modal hashing by a co-training mechanism)  
-****
 ## 😍Remote Sensing  
 ### 😄Single-Modal  
 * #### Deep-Unsupervised  
@@ -348,8 +347,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TGRS*** Cohesion Intensive Hash Code Book Coconstruction for Efficiently Localizing Sketch Depicted Scenes[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634055)  
 ***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
 ***2022 TGRS*** Multisensor Fusion and Explicit Semantic Preserving-Based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval(`MsEspH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656147)  
-***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)  
-****  
+***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)    
 ## 😍Trajectory  
 ### 😄Road  
 * #### Deep-Unsupervised
