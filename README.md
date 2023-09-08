@@ -350,7 +350,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
 ***2022 TGRS*** Multisensor Fusion and Explicit Semantic Preserving-Based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval(`MsEspH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656147)  
 ***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)    
-## 😍Trajectory  
+## 😍Trajectory(Non-hashing)  
 ### 😄Road  
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
