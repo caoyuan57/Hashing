@@ -370,6 +370,12 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 
 ## 😍Attack     
 ### 😄Single-Modal 
-* #### General
-* #### Targeted
+* #### General   
+* #### Targeted  
 ### 😄Cross-Modal 
+
+## 😍Long-Tail Hashing     
+### 😄Single-Modal 
+* #### Deep-Supervised   
+### 😄Cross-Modal 
+* #### Deep-Supervised  
