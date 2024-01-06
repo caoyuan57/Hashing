@@ -367,3 +367,11 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 WWW*** Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification(`RSTS`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-022-01085-4.pdf?pdf=button)[[Code]](https://github.com/Like-China/TrajectorySim-RSTS-model)  
 ***2022 TKDE*** Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation(`AT2VEC+`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143478)  
 ***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)  
+
+## 😍Attack     
+### 😄Single-Modal 
+* #### Targeted
+* ##### Patch
+* ##### Black-box
+* #### Nontargeted
+### 😄Cross-Modal 
