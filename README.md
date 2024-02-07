@@ -384,7 +384,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 
   ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)
 
-  ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)(https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)
+  ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)
 
   ***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)
 
