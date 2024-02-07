@@ -370,8 +370,25 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 
 ## 😍Attack     
 ### 😄Single-Modal 
-* #### General   
+* #### Non-targeted
+
+  ***2018 IEEE Trans Cybern*** Adversarial Examples for Hamming Space Search(`HAG`)[[Paper]]([Adversarial Examples for Hamming Space Search | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8573146))
+
+  ***2021 ICMR*** A Smart Adversarial Attack on Deep Hashing Based Image Retrieval(`SDHA`)[[Paper]]([A Smart Adversarial Attack on Deep Hashing Based Image Retrieval | Proceedings of the 2021 International Conference on Multimedia Retrieval (acm.org)](https://dl.acm.org/doi/abs/10.1145/3460426.3463640))
+
+  ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]]([CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval | Proceedings of the ACM Web Conference 2023](https://dl.acm.org/doi/abs/10.1145/3543507.3583369))
+
 * #### Targeted  
+
+  ***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]]([Targeted Attack for Deep Hashing Based Retrieval | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36))
+
+  ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]]([Targeted Attack and Defense for Deep Hashing | Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://dl.acm.org/doi/10.1145/3404835.3463233))
+
+  ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]]([CVPR 2021 Open Access Repository (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html))
+
+  ***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]]([CVPR 2021 Open Access Repository (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html))
+
+  ***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]]([Precise Target-Oriented Attack against Deep Hashing-based Retrieval](https://dl.acm.org/doi/abs/10.1145/3581783.3612364))
 ### 😄Cross-Modal 
 
 ## 😍Long-Tail     
