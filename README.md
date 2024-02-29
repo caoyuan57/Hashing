@@ -44,6 +44,9 @@ and Intrinsic Similarity Learning(`HashSIM`)[[Paper]](https://ieeexplore.ieee.or
 ***2023 TCSVT*** Deep Learning based Image Retrieval with Unsupervised Double Bit Hashing(`UDBH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103906)  
 ***2023 TCSVT*** Unsupervised Hashing Retrieval via Efficient
 Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005297)
+***2023 MM*** Unsupervised Hashing with Contrastive Learning by Exploiting Similarity Knowledge and Hidden Structure of Data(`CGHash`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612596)[[Code]](https://github.com/KARLSZP/CGHash)  
+***2023 PACMMOD*** Unsupervised Hashing with Semantic Concept Mining(`UHSCM`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3588683)[[Code]](https://github.com/rongchengtu1/UHSCM)
+***2023 BMVC*** Unsupervised Hashing with Similarity Distribution Calibration(`SDC`)[[Paper]](https://papers.bmvc2023.org/0053.pdf)[[Code]](https://github.com/kamwoh/sdc)
 * #### Deep-Supervised  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609600)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
 ***2015 CVPR*** Supervised Discrete Hashing(`SDH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_Supervised_Discrete_Hashing_2015_CVPR_paper.pdf)[[Code]](https://github.com/TreezzZ/SDH_PyTorch)  
