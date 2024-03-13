@@ -425,6 +425,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 * #### Deep-Supervised
 ***2019 ICDM*** Cross-modal Zero-shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970685)  
 ***2021 ArXiv*** Cross-modal Zero-shot Hashing by Label Attributes Embedding[[Paper]](https://arxiv.dosf.top/abs/2111.04080)  
+***2021 TNNLS*** Attribute-Guided Network for Cross-Modal Zero-Shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8686336)  
 ***2022 TMM*** Attribute-Guided Multiple Instance Hashing Network for Cross-Modal Zero-Shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9827595)  
 ***2022 Neruocomputing*** Discrete asymmetric zero-shot hashing with application to cross-modal retrieval[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222011560)  [[Code]](https://github.com/szq0816/DAZSH)
 
