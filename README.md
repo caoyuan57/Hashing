@@ -418,7 +418,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2018 CVPR*** Zero-Shot Sketch-Image Hashing[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)  
 ***2019 PRL*** Zero-shot Hashing with orthogonal projection for image retrieval [[Paper]](https://eprints.ncl.ac.uk/fulltext.aspx?url=248292%2fD3F2AB30-6240-4042-AE67-6A818AA29848.pdf&pub_id=248292&ts=638427896399245251)  
 ***2020 TNNLS*** Transductive Zero-Shot Hashing for Multilabel Image Retrieval[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9309012/)   
-***2020 ICPR*** VSB2-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9412798/) 
+***2020 ICPR*** VSB2-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9412798/)  
 ***2021 PRL*** CHOP: An orthogonal hashing method for zero-shot cross-modal retrieval[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)  
 ***2022 CVPR*** Sketch3T: Test-Time Training for Zero-Shot SBIR[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.pdf)  
 ### 😄Cross-Modal 
