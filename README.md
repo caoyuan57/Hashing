@@ -444,7 +444,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄AutoML
 * #### Pruning  
 ***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
-***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates)  
+***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5924/5780)  
 * #### Quantization
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](HAQ: Hardware-Aware Automated Quantization with Mixed Precision)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
