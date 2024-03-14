@@ -418,6 +418,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2017 ICME*** Attribute hashing for zero-shot image retrieval[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/8019425/)  
 ***2018 Neurocomputing*** Hashing in the zero shot framework with domain adaptation[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0925231217317125)  
 ***2022 TIP***  Supervised adaptive similarity matrix hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740336)  
+***2023 TKDE*** Zero-Shot_Hashing_via_Asymmetric_Ratio_Similarity_Matrix[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712384)  
 * #### Deep-Supervised
 ***2017 ICJAI*** Discrete Similarity Transfer Network for Zero-shot Hashing(SitNet)[[Paper]](http://ise.thss.tsinghua.edu.cn/mig/2017-11.pdf)  
 ***2018 CVPR*** Zero-Shot Sketch-Image Hashing[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)  
