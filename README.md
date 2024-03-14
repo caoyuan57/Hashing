@@ -405,7 +405,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 * #### Deep-Supervised   
 * #### Deep-Supervised
 ***2021 SIGIR*** Long-Tail Hashing (`LTH`)[[Paper]](https://eprints.bbk.ac.uk/id/eprint/45119/1/LTH_SIGIR.pdf)  
-***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval (`ACH`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)  
+***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval (`ACH`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)    
 ***2023 MM*** Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval (`DDPH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612328) 
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
