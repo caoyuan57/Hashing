@@ -429,4 +429,23 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TMM*** Attribute-Guided Multiple Instance Hashing Network for Cross-Modal Zero-Shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9827595)  
 ***2022 Neruocomputing*** Discrete asymmetric zero-shot hashing with application to cross-modal retrieval[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222011560)  [[Code]](https://github.com/szq0816/DAZSH)
 
+## 😍NAS(Non-Hashing)  
+### 😄Architecture encoding  
+***2019 NIPS*** D-VAE: A Variational Autoencoder for Directed Acyclic Graphs(`D-VAE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf)[[Code]](https://github.com/muhanzhang/D-VAE)  
+***2019 NIPS*** NAT: Neural Architecture Transformer for Accurate and Compact Architectures(`NAT`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/beed13602b9b0e6ecb5b568ff5058f07-Paper.pdf)  
+***2020 NIPS*** Bridging the Gap between Sample-based and One-shot Neural Architecture Search with BONAS[[Paper]](https://proceedings.neurips.cc/paper/2020/file/13d4635deccc230c944e4ff6e03404b5-Paper.pdf)[[Code]](https://github.com/pipilurj/BONAS)  
+***2020 NIPS*** A Study on Encodings for Neural Architecture Search[[Paper]](https://proceedings.neurips.cc/paper/2020/file/ea4eb49329550caaa1d2044105223721-Paper.pdf)  
+***2020 ECCV*** A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(`GATES`)[[Paper]](https://arxiv.org/pdf/2004.01899.pdf)[[Code]](https://github.com/walkerning/aw_nas)  
+***2021 ICML*** CATE: Computation-aware Neural Architecture Encoding with Transformers(`CATE`)[[Paper]](https://proceedings.mlr.press/v139/yan21c/yan21c.pdf)  
+***2022 NIPS*** TA-GATES: An Encoding Scheme for Neural Network Architectures(`TA-GATES`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)[[Code]](https://github.com/walkerning/aw_nas)  
+***2022 TPAMI*** A Generic Graph-Based Neural Architecture Encoding Scheme With Multifaceted Information(`GATES++`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982412)  
 
+## 😍Compress(Non-Hashing)  
+### 😄AutoML
+* #### Pruning  
+***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
+***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates)  
+* #### Quantization
+***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](HAQ: Hardware-Aware Automated Quantization with Mixed Precision)  
+***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
+***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
