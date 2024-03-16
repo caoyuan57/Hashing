@@ -43,7 +43,10 @@
 and Intrinsic Similarity Learning(`HashSIM`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705618)[[Code]](https://github.com/FrankloveCQ/HashSIM)  
 ***2023 TCSVT*** Deep Learning based Image Retrieval with Unsupervised Double Bit Hashing(`UDBH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103906)  
 ***2023 TCSVT*** Unsupervised Hashing Retrieval via Efficient
-Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005297)
+Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005297)  
+***2023 MM*** Unsupervised Hashing with Contrastive Learning by Exploiting Similarity Knowledge and Hidden Structure of Data(`CGHash`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612596)[[Code]](https://github.com/KARLSZP/CGHash)    
+***2023 PACMMOD*** Unsupervised Hashing with Semantic Concept Mining(`UHSCM`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3588683)[[Code]](https://github.com/rongchengtu1/UHSCM)  
+***2023 BMVC*** Unsupervised Hashing with Similarity Distribution Calibration(`SDC`)[[Paper]](https://papers.bmvc2023.org/0053.pdf)[[Code]](https://github.com/kamwoh/sdc)  
 * #### Deep-Supervised  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609600)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
 ***2015 CVPR*** Supervised Discrete Hashing(`SDH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_Supervised_Discrete_Hashing_2015_CVPR_paper.pdf)[[Code]](https://github.com/TreezzZ/SDH_PyTorch)  
@@ -406,5 +409,55 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ## 😍Long-Tail     
 ### 😄Single-Modal 
 * #### Deep-Supervised   
+* #### Deep-Supervised
+***2021 SIGIR*** Long-Tail Hashing (`LTH`)[[Paper]](https://eprints.bbk.ac.uk/id/eprint/45119/1/LTH_SIGIR.pdf)  
+***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval (`ACH`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)  
+***2023 MM*** Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval (`DDPH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612328) 
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
+***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)   
+
+## 😍Zero-shot Hash     
+### 😄Single-Modal 
+* #### Traditional-Supervised
+***2016 MM*** Hashing via Transferring Supervised Knowledge[[Paper]](https://sci-hub.yncjkj.com/10.1145/2964284.2964319)  
+***2017 ICME*** Attribute hashing for zero-shot image retrieval[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/8019425/)  
+***2018 Neurocomputing*** Hashing in the zero shot framework with domain adaptation[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0925231217317125)  
+***2022 TIP***  Supervised adaptive similarity matrix hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740336)  
+***2023 TKDE*** Zero-Shot_Hashing_via_Asymmetric_Ratio_Similarity_Matrix[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712384)  
+* #### Deep-Supervised
+***2017 ICJAI*** Discrete Similarity Transfer Network for Zero-shot Hashing(SitNet)[[Paper]](http://ise.thss.tsinghua.edu.cn/mig/2017-11.pdf)  
+***2018 CVPR*** Zero-Shot Sketch-Image Hashing[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)  
+***2019 PRL*** Zero-shot Hashing with orthogonal projection for image retrieval [[Paper]](https://eprints.ncl.ac.uk/fulltext.aspx?url=248292%2fD3F2AB30-6240-4042-AE67-6A818AA29848.pdf&pub_id=248292&ts=638427896399245251)  
+***2020 TNNLS*** Transductive Zero-Shot Hashing for Multilabel Image Retrieval[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9309012/)   
+***2020 ICPR*** Visual-Semantic Bi-Branch Network for Zero-Shot Hashing(VSB2-Net)[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9412798/)  
+***2021 PRL*** An orthogonal hashing method for zero-shot cross-modal retrieval(CHOP)[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)    
+### 😄Cross-Modal 
+* #### Traditional-Supervised  
+* #### Deep-Supervised
+***2019 ICDM*** Cross-modal Zero-shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970685)  
+***2021 ArXiv*** Cross-modal Zero-shot Hashing by Label Attributes Embedding[[Paper]](https://arxiv.dosf.top/abs/2111.04080)  
+***2021 TNNLS*** Attribute-Guided Network for Cross-Modal Zero-Shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8686336)  
+***2022 TMM*** Attribute-Guided Multiple Instance Hashing Network for Cross-Modal Zero-Shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9827595)  
+***2022 Neruocomputing*** Discrete asymmetric zero-shot hashing with application to cross-modal retrieval[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222011560)  [[Code]](https://github.com/szq0816/DAZSH)
+
+## 😍NAS(Non-Hashing)  
+### 😄Architecture encoding  
+***2019 NIPS*** D-VAE: A Variational Autoencoder for Directed Acyclic Graphs(`D-VAE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf)[[Code]](https://github.com/muhanzhang/D-VAE)  
+***2019 NIPS*** NAT: Neural Architecture Transformer for Accurate and Compact Architectures(`NAT`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/beed13602b9b0e6ecb5b568ff5058f07-Paper.pdf)  
+***2020 NIPS*** Bridging the Gap between Sample-based and One-shot Neural Architecture Search with BONAS[[Paper]](https://proceedings.neurips.cc/paper/2020/file/13d4635deccc230c944e4ff6e03404b5-Paper.pdf)[[Code]](https://github.com/pipilurj/BONAS)  
+***2020 NIPS*** A Study on Encodings for Neural Architecture Search[[Paper]](https://proceedings.neurips.cc/paper/2020/file/ea4eb49329550caaa1d2044105223721-Paper.pdf)  
+***2020 ECCV*** A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(`GATES`)[[Paper]](https://arxiv.org/pdf/2004.01899.pdf)[[Code]](https://github.com/walkerning/aw_nas)  
+***2021 ICML*** CATE: Computation-aware Neural Architecture Encoding with Transformers(`CATE`)[[Paper]](https://proceedings.mlr.press/v139/yan21c/yan21c.pdf)  
+***2022 NIPS*** TA-GATES: An Encoding Scheme for Neural Network Architectures(`TA-GATES`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)[[Code]](https://github.com/walkerning/aw_nas)  
+***2022 TPAMI*** A Generic Graph-Based Neural Architecture Encoding Scheme With Multifaceted Information(`GATES++`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982412)  
+
+## 😍Compress(Non-Hashing)  
+### 😄AutoML
+* #### Pruning  
+***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
+***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5924/5780)  
+* #### Quantization
+***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](HAQ: Hardware-Aware Automated Quantization with Mixed Precision)  
+***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
+***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
