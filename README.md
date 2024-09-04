@@ -362,14 +362,14 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄Road   
 ***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
 ***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Code]](https://github.com/caoyuan57/HHL-Traj)  
-### 😄Road (Non-hashing)   
+### 😄Road(Non-hashing)   
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
 ***2021 CIKM*** Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics(`Toast`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482293)  
 ***2022 KDD*** Spatio-Temporal Trajectory Similarity Learning in Road Networks(`ST2Vec`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539375)[[Code]](https://github.com/zealscott/ST2Vec)  
 ***2023 DASFAA*** Trajectory Representation Learning Based on Road Network Partition for Similarity Computation（`PT2vec`）[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-30637-2.pdf?pdf=button)  
 ***2023 AAAI*** GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM(`GRLSTM`）[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25624/25396) [[Code]](https://github.com/slzhou-xy/GRLSTM)  
-### 😄Grid (Non-hashing)   
+### 😄Grid(Non-hashing)   
 * #### Deep-Unsupervised
 ***2018 ICDE*** Deep Representation Learning for Trajectory Similarity Computation(`t2vec`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509283)[[Code]](https://github.com/boathit/t2vec)  
 ***2019 ICDE*** Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach(`NeuTraj`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731427)[[Code]](https://github.com/yaodi833/NeuTraj)  
@@ -419,7 +419,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
 ***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)
-### 😄Long-Tail Multi Experts (Non-Hashing) 
+### 😄Long-Tail Multi Experts(Non-Hashing) 
 * #### Deep-Supervised
 ***2020 ECCV*** Learning From Multiple Experts Self-paced Knowledge Distillation for Long-tailed Classification(`LFME`)[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_15.pdf?pdf=inline%20link)  
 ***2021 ICLR*** Long-Tailed Recognition By Routing Diverse Distribution-Aware Experts(`RIDE`)[[Paper]](https://arxiv.org/pdf/2010.01809)[[Code]](https://github.com/frank-xwang/RIDE-LongTailRecognition)  
@@ -462,7 +462,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2024 EAAI*** Unpaired robust hashing with noisy labels for zero-shot cross-modal retrieval[[Paper]](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197624X00044/1-s2.0-S0952197624003555/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJGMEQCIGiVq2w3718uVsFnipSs3QX4oX2FD%2F6c2Jec54EXAkJlAiAlwupFXogMTKUOX9Hi49K2%2B1lLzq8yrX4ZpEUq%2BzL7siqzBQhxEAUaDDA1OTAwMzU0Njg2NSIMaQO%2FNbkaP3%2FgV%2FDjKpAFUGMrXC8u7Lzu8g9eUpCX7Rwe%2Bi5wiM8v5MJ3kdGf2T1sN8xF70VO1Yq1h0gb1049VjcIIxzPK5Xb%2FNgfwi1y%2F%2BeZ6KtjEFFGjIrj4xEfQNQHLBrZExjMx5%2FlcsG1uqM63%2B4ZdGpV5qoeCT5w%2Bm7mnh2yTaUyxgg8KpoXyEM1ubhi%2Bp8QgiJ6ElhB%2Bx8k%2F816qFYTu9atdOuhrZDzNmoZrYvlMBiqmHHyVKm4cHC8GXBgJEcqYWzs9c24qVjApZoHkTMINFmOtAxmrV5slHb2oZ4Vl7aKVumRfwBKkFjWmSMYubvsDDGOg%2FKfF66FzbppWD4xAYcUltF4jTS23o8418PKPtIVk5c6ZaSTlEoiXuKKFWRHw%2B7Io9q1m9SOOeKnec6woJbYOIE7Rev4oX7%2BqnWA%2FG7HQnivep40Dy0wQMvq82jvHqXECpyt%2FR42cFAqjN7YgfdlKYqsl%2BBEgu%2FONFXsy6G7qgQZqi8J%2B4gbg8Q%2FeBcZw4hQaXLul3BezbhZ0KWtlAFDjyhSFl%2FLPqDBdsrFmbEhRoDsHw8yYjSPAZ7Ce%2BSDTskGZ2ssjwvvZ9xpYKK%2BFOgWa26cJnywvIKSc9r9889LzrVWQYl0CDCtue7Yt2%2B%2BqNH5HvAuq5AzbNzjtPHDUO8yTNfpz8409uj4etQlfXxQpgTlHAwEFWd2TenaSBWCjLEtW24erdU2T%2F2vZRDSO7WK0A%2B2Z5%2BEiD9nwbXxfEAERjM2YK%2BXwR7T2F7vCI9ho3xI11Ow0R7omE0Wex%2FiNWC42V%2BhgMbtRxwiW4J28HtSVEahvRS%2BqExzlePJtJdgBmehnD9cHrArHeG8dvzxH6LO8e%2BgFZB4liFdE2jOGWSPxYERe18Sdqgzr2MwuMSWtgY6sgFb89NuZ4eIlZDmCyIeYnqVeArBwKDes%2Fzu5I%2FFrSBWmmQW1aHOjZ1YKice2UkfjDTWdmVVON1kgpYRsZQ3P93XbBKbcXBeVIHOLzrvo6LOO4mAxYdkjoTFQN%2FkOwker%2F%2BpFt%2Fofs5k%2B9MmPa8b60jinqKG8LFJCWxMXJ2o%2FL6sFvGtOcn3J5BMJd69Xk5oAFX%2FB4udRNdBMjPKqBuH%2F%2FA9Q4m9Du4CXAqWtO0AVge45wfJ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240821T092559Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUFWA2QUY%2F20240821%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=01f57a9dd7fad17c9ea0873ff41dc044817ce25d6e71a30cd899d54ecafd45ba&hash=59cf8846700aedd82455aa2ea1bbd3b856fe7c6315f10db1e4bae510ff9ba4fe&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197624003555&tid=spdf-6c6e69fa-46ad-4093-8d1a-1495fb684eb2&sid=b402b80d7025884737487a888766ff631ebcgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=10145806595b5d57545d&rr=8b699432ace66848&cc=jp)    
 ***2024 AINIT*** A Highly Efficient Zero-Shot Cross-Modal Hashing Method Based on CLIP[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10581810)    
 
-## 😍NAS (Non-Hashing)  
+## 😍NAS(Non-Hashing)  
 ### 😄Architecture encoding  
 ***2019 NIPS*** D-VAE: A Variational Autoencoder for Directed Acyclic Graphs(`D-VAE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf)[[Code]](https://github.com/muhanzhang/D-VAE)  
 ***2019 NIPS*** NAT: Neural Architecture Transformer for Accurate and Compact Architectures(`NAT`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/beed13602b9b0e6ecb5b568ff5058f07-Paper.pdf)  
@@ -473,7 +473,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 NIPS*** TA-GATES: An Encoding Scheme for Neural Network Architectures(`TA-GATES`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)[[Code]](https://github.com/walkerning/aw_nas)  
 ***2022 TPAMI*** A Generic Graph-Based Neural Architecture Encoding Scheme With Multifaceted Information(`GATES++`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982412)  
 
-## 😍Compress (Non-Hashing)  
+## 😍Compress(Non-Hashing)  
 ### 😄AutoML
 * #### Pruning  
 ***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
