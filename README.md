@@ -254,13 +254,12 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 TNNLS*** Three-Stage Semisupervised Cross-Modal Hashing With Pairwise Relations Exploitation(`TS3H`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093905)  
 ***2023 TMM*** Semi-Supervised Knowledge Distillation for Cross-Modal Hashing(`SKDCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9623504)  
 ***2023 TMM*** Partial Multi-Modal Hashing via Neighbor-aware Completion Learning(`NCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10021860)[[Code]](https://github.com/FutureTwT/NCH)  
-***2023 TMM*** Hierarchical Semantic Structure Preserving Hashing
-for Cross-Modal Retrieval(`HSSPH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9670722)  
-***2023 TKDE*** Two-stage Asymmetric Similarity Preserving
-Hashing for Cross-modal Retrieval(`TASPH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10146484)  
+***2023 TMM*** Hierarchical Semantic Structure Preserving Hashing for Cross-Modal Retrieval(`HSSPH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9670722)  
+***2023 TKDE*** Two-stage Asymmetric Similarity Preserving Hashing for Cross-modal Retrieval(`TASPH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10146484)  
 ***2023 TCSVT*** Semantic Disentanglement Adversarial Hashing for Cross-Modal Retrieval(`SDAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10175565)  
-***2023 TKDE*** Discrete Robust Matrix Factorization Hashing for
-Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283)  
+***2023 TKDE*** Discrete Robust Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283)  
+***2023 MM*** Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612411)  
+***2023 SIGIR*** Data-aware proxy hashing for cross-modal retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591660)
 ## 😍Graph  
 ### 😄Single-Modal  
 * #### Unsupervised  
