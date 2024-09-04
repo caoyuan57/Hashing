@@ -407,15 +407,26 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ​***2023 ACM Trans Inf Syst*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
 ## 😍Long-Tail     
-### 😄Single-Modal 
-* #### Deep-Supervised   
+### 😄Single-Modal   
 * #### Deep-Supervised
 ***2021 SIGIR*** Long-Tail Hashing (`LTH`)[[Paper]](https://eprints.bbk.ac.uk/id/eprint/45119/1/LTH_SIGIR.pdf)  
 ***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval (`ACH`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)  
-***2023 MM*** Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval (`DDPH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612328) 
+***2023 MM*** Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval (`DDPH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612328)  
+***2024 TMM*** Semantic-enhanced Proxy-guided Hashing for Long-tailed Image Retrieval[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
-***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)   
+***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)
+### 😄Long-Tail Multi Experts(Non-Hashing) 
+* #### Deep-Supervised
+***2020 ECCV*** Learning From Multiple Experts Self-paced Knowledge Distillation for Long-tailed Classification(`LFME`)[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_15.pdf?pdf=inline%20link)  
+***2021 ICLR*** Long-Tailed Recognition By Routing Diverse Distribution-Aware Experts(`RIDE`)[[Paper]](https://arxiv.org/pdf/2010.01809)[[Code]](https://github.com/frank-xwang/RIDE-LongTailRecognition)  
+***2021 ICCV*** ACE: Ally Complementary Experts for Solving Long-Tailed Recognition in One-Shot(`ACE`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_ACE_Ally_Complementary_Experts_for_Solving_Long-Tailed_Recognition_in_One-Shot_ICCV_2021_paper.pdf)[[Code]](https://github.com/jrcai/ACE)  
+***2022 CVPR*** Nested Collaborative Learning for Long-Tailed Visual Recognition(`NCL`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)[[Code]](https://github.com/Bazinga699/NCL)  
+***2022 NeurIPS*** Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition(`SADE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/dc6319dde4fb182b22fb902da9418566-Paper-Conference.pdf)[[Code]](https://github.com/Vanint/SADE-AgnosticLT)  
+***2023 CVPR*** Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation(`SHIKE`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.pdf)[[Code]](https://github.com/jinyan-06/SHIKE)  
+***2023 ICCV*** Local and Global Logit Adjustments for Long-Tailed Learning(`LGLA`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tao_Local_and_Global_Logit_Adjustments_for_Long-Tailed_Learning_ICCV_2023_paper.pdf)  
+***2023 ICCV*** Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays through ML-GCN Augmentation[[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Seo_Enhancing_Multi-Label_Long-Tailed_Classification_on_Chest_X-Rays_Through_ML-GCN_Augmentation_ICCVW_2023_paper.pdf)[[Code]](https://github.com/lisaseo9704/2023_ICCVW_CVAMD_NCIA500)  
+***2024 Expert Systems With Application*** Multiple Contrastive Experts for long-tailed image classification[[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417424X00159/1-s2.0-S0957417424014805/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCWSr0z9vdyMSMKYoFJtXIKD%2FLGqJ6v4jdm5xKUGOfaYwIgAZtiW%2BTwjmv5Sxn4fHAHkT4252%2BKHXfifY9rJGw7pmUquwUI5v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHSP7jvGg9NUXjlMGyqPBRjj7px%2F2vTT7c%2BZ6HIMkGbQ33JLK4zwDLrxKcqojvPkf6ToEXDwOmakbzbD7%2BkIWychOLTSHPGlYBK4BVWOEWXsvj6XzS%2F4nyhCgdddTl2RwZdRPvNX%2Fj1ZHff%2F3WpCH3bTrP3nyL6Lci01TGe7VapRNWrJCS3jxToO3i7PVBLRp%2FEP2KxaF9bmAuGndm2C0nQDjCOa6QgiRBU%2BBEmxQwVKgXgsexvWPQY2pYfOaghLN%2B%2BuV22a%2FuFDAIAgKogQVJye2tuGjSU8mmZJVD8e%2FbhJKOL0L86aEktlQlgbAj6DveCXFjA%2B8pKzB4Y2knXa8qxwpytd9Bdmue%2BMCdmjjpWoRmA9UzfvRU6HXn6C0jZp7qqd4nFZrFnk9cq7NOqh2U4znHUC3s6%2BMu3WBcRFLENgSwGRvW2QOy5BP60LJvteyTT33Fnc6lweE1xKqrlv7q6jL2%2B79zIhOYNywgO2TnTNk%2FbN2k05LxP1Hb09INEfANmyC5hks7ByaJ4JxH1GNRBxG9Oj0mmjDkzVRHp3iiF5w8EvCIcnSrcq8KFOju0g4XpZOZbhMuBsw2BgDaDwViqD6h6ljM7gNs1lXTtuBojA%2FDXvuvsFycEwnu2HU3aVAUgA4LVBw6ll2fq8wd7oFcdyNVnWIqLESJwu3e%2FMFoDmJHTLpvqF2g52iHkABt9fsUc6qVaTzLyOlwmQwglMLT82Xdquj3BAJPM42jdkwev42U3SnCCP3yzbSbXhDnskbUBhxMBbMbVIoi%2BBUOzlh7DYxumXEIoR5AlRtz2XVYOmVq%2FLWLPmJ7ZagEIeMrNbpeNO1l4f6caMxxhBxR6q2g8lkOHg16H4NjOQmgiyNb8QLe0zBmGVXhtgCZI2P4swv52wtgY6sQHFhVQ%2B2TpSqNH10kgdEIfCp7ZO9MDT1jnLF3Z9Socd1wm35JCY8m7H4XLPuCsT2937l1xjkrvFXMUV7EAes%2FtMtGGMnYcPqzXVWPU8ktP8FV9DHvbTNbmXOHsalLvz%2B%2Fyi2pJvpXDwaHJCIOiyPtLr%2B4WUSvji%2BpaO%2BH8D66emzDJMmoIjh8PJknEHkKySevYxEDY8yCbuDiSvaFALbRRa2EEWm240jWG7Lda0OfZR%2BQY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240826T055412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWUK7EC4A%2F20240826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f755bc50d49c0955b42a2cba2e83de2f450c785f2fa5fc61ba13e882a3ec6f1a&hash=36061c7b9a3f1f6a6767e1e16e8853033867365672f6fab5e0dedd5863af9f9e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417424014805&tid=spdf-ce523079-e0e5-426e-bacc-16e39217282a&sid=fccf18ec7a5f53472b8ad9c-da2cddb22de4gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155d045e535e5e0058&rr=8b9190d85bb1985e&cc=us)  
 
 ## 😍Zero-shot Hash     
 ### 😄Single-Modal 
