@@ -491,3 +491,6 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
+
+## 😍RAG(Non-Hashing)  
+### 😄Stay tuned...
