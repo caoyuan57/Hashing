@@ -351,7 +351,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 * #### Deep-Supervised  
 ***2020 TGRS*** Deep Cross-Modal Image–Voice Retrieval in Remote Sensing(`DIVR`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9044618)  
 ***2022 TGRS*** Cohesion Intensive Hash Code Book Coconstruction for Efficiently Localizing Sketch Depicted Scenes[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634055)  
-***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
+***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
 ***2022 TGRS*** Multisensor Fusion and Explicit Semantic Preserving-Based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval(`MsEspH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656147)  
 ***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)    
 ***2024 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://ieeexplore.ieee.org/document/10440628)[[Code]]( https://github.com/sunyuxi/FSISR)
