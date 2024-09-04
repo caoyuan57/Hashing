@@ -376,10 +376,10 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 WWW*** Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification(`RSTS`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-022-01085-4.pdf?pdf=button)[[Code]](https://github.com/Like-China/TrajectorySim-RSTS-model)  
 ***2022 TKDE*** Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation(`AT2VEC+`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143478)  
 ***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)  
-## 😍Trajectory(Non-hashing)  
+## 😍Trajectory(Hashing)  
 ### 😄Road  
-***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)
-***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation
+***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
+***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation [[Code]]([https://github.com/HuHaonan-CHN/TrajGAT](https://github.com/caoyuan57/HHL-Traj)
 
 
 ## 😍Attack     
@@ -433,7 +433,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2023 ICCV*** Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays through ML-GCN Augmentation[[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Seo_Enhancing_Multi-Label_Long-Tailed_Classification_on_Chest_X-Rays_Through_ML-GCN_Augmentation_ICCVW_2023_paper.pdf)[[Code]](https://github.com/lisaseo9704/2023_ICCVW_CVAMD_NCIA500)  
 ***2024 Expert Systems With Application*** Multiple Contrastive Experts for long-tailed image classification[[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417424X00159/1-s2.0-S0957417424014805/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCWSr0z9vdyMSMKYoFJtXIKD%2FLGqJ6v4jdm5xKUGOfaYwIgAZtiW%2BTwjmv5Sxn4fHAHkT4252%2BKHXfifY9rJGw7pmUquwUI5v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHSP7jvGg9NUXjlMGyqPBRjj7px%2F2vTT7c%2BZ6HIMkGbQ33JLK4zwDLrxKcqojvPkf6ToEXDwOmakbzbD7%2BkIWychOLTSHPGlYBK4BVWOEWXsvj6XzS%2F4nyhCgdddTl2RwZdRPvNX%2Fj1ZHff%2F3WpCH3bTrP3nyL6Lci01TGe7VapRNWrJCS3jxToO3i7PVBLRp%2FEP2KxaF9bmAuGndm2C0nQDjCOa6QgiRBU%2BBEmxQwVKgXgsexvWPQY2pYfOaghLN%2B%2BuV22a%2FuFDAIAgKogQVJye2tuGjSU8mmZJVD8e%2FbhJKOL0L86aEktlQlgbAj6DveCXFjA%2B8pKzB4Y2knXa8qxwpytd9Bdmue%2BMCdmjjpWoRmA9UzfvRU6HXn6C0jZp7qqd4nFZrFnk9cq7NOqh2U4znHUC3s6%2BMu3WBcRFLENgSwGRvW2QOy5BP60LJvteyTT33Fnc6lweE1xKqrlv7q6jL2%2B79zIhOYNywgO2TnTNk%2FbN2k05LxP1Hb09INEfANmyC5hks7ByaJ4JxH1GNRBxG9Oj0mmjDkzVRHp3iiF5w8EvCIcnSrcq8KFOju0g4XpZOZbhMuBsw2BgDaDwViqD6h6ljM7gNs1lXTtuBojA%2FDXvuvsFycEwnu2HU3aVAUgA4LVBw6ll2fq8wd7oFcdyNVnWIqLESJwu3e%2FMFoDmJHTLpvqF2g52iHkABt9fsUc6qVaTzLyOlwmQwglMLT82Xdquj3BAJPM42jdkwev42U3SnCCP3yzbSbXhDnskbUBhxMBbMbVIoi%2BBUOzlh7DYxumXEIoR5AlRtz2XVYOmVq%2FLWLPmJ7ZagEIeMrNbpeNO1l4f6caMxxhBxR6q2g8lkOHg16H4NjOQmgiyNb8QLe0zBmGVXhtgCZI2P4swv52wtgY6sQHFhVQ%2B2TpSqNH10kgdEIfCp7ZO9MDT1jnLF3Z9Socd1wm35JCY8m7H4XLPuCsT2937l1xjkrvFXMUV7EAes%2FtMtGGMnYcPqzXVWPU8ktP8FV9DHvbTNbmXOHsalLvz%2B%2Fyi2pJvpXDwaHJCIOiyPtLr%2B4WUSvji%2BpaO%2BH8D66emzDJMmoIjh8PJknEHkKySevYxEDY8yCbuDiSvaFALbRRa2EEWm240jWG7Lda0OfZR%2BQY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240826T055412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWUK7EC4A%2F20240826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f755bc50d49c0955b42a2cba2e83de2f450c785f2fa5fc61ba13e882a3ec6f1a&hash=36061c7b9a3f1f6a6767e1e16e8853033867365672f6fab5e0dedd5863af9f9e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417424014805&tid=spdf-ce523079-e0e5-426e-bacc-16e39217282a&sid=fccf18ec7a5f53472b8ad9c-da2cddb22de4gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155d045e535e5e0058&rr=8b9190d85bb1985e&cc=us)  
 
-## 😍Zero-shot Hash     
+## 😍Zero-shot Hashing     
 ### 😄Single-Modal 
 * #### Traditional-Supervised
 ***2016 MM*** Hashing via Transferring Supervised Knowledge[[Paper]](https://sci-hub.yncjkj.com/10.1145/2964284.2964319)  
