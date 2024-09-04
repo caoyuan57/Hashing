@@ -342,13 +342,11 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TGRS*** Meta-Hashing for Remote Sensing Image Retrieval(`meta-hashing`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9654226)[[Code]](https://github.com/TangXu-Group/Meta-hashing)  
 ***2023 TGRS*** Deep Saliency Smoothing Hashing for Drone Image Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065512)  
 ***2023 TGRS*** Encrypting Hashing Against Localization(`EHaL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102104)[[Code]](https://github.com/JingpengHan/EHaL)
-
 ***2024 TGRS*** Hashing for Retrieving Long-Tailed Distributed Remote Sensing Images(`CIAH`)[[Paper]](https://ieeexplore.ieee.org/document/10418149)
 ### 😄Cross-Modal  
 * #### Deep-Unsupervised  
 ***2022 ICASSP*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746251)[[Code1]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval) [[Code2]](https://git.tu-berlin.de/rsim/duch)  
 ***2022 ICIP*** An Unsupervised Cross-Modal Hashing Method Robust to Noisy Training Image-Text Correspondences in Remote Sensing(`CHNR`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897500)[[Code]](https://git.tu-berlin.de/rsim/chnr)
-
 ***2024 TRSL*** Deep Multiscale Fine-Grained Hashing for Remote Sensing Cross-Modal Retrieval(`DMFH`)[[Paper]](https://ieeexplore.ieee.org/document/10384440)
 * #### Deep-Supervised  
 ***2020 TGRS*** Deep Cross-Modal Image–Voice Retrieval in Remote Sensing(`DIVR`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9044618)  
@@ -356,7 +354,6 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
 ***2022 TGRS*** Multisensor Fusion and Explicit Semantic Preserving-Based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval(`MsEspH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656147)  
 ***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)
-
 ***2024 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://ieeexplore.ieee.org/document/10440628)[[Code]]( https://github.com/sunyuxi/FSISR)
 ## 😍Trajectory  
 ### 😄Road   
@@ -425,7 +422,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
 ***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)
-### 😄Long-Tail Multi Experts(Non-Hashing) 
+### 😄Multi Experts(Non-Hashing) 
 * #### Deep-Supervised
 ***2020 ECCV*** Learning From Multiple Experts Self-paced Knowledge Distillation for Long-tailed Classification(`LFME`)[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_15.pdf?pdf=inline%20link)  
 ***2021 ICLR*** Long-Tailed Recognition By Routing Diverse Distribution-Aware Experts(`RIDE`)[[Paper]](https://arxiv.org/pdf/2010.01809)[[Code]](https://github.com/frank-xwang/RIDE-LongTailRecognition)  
@@ -469,7 +466,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2024 AINIT*** A Highly Efficient Zero-Shot Cross-Modal Hashing Method Based on CLIP[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10581810)    
 
 ## 😍NAS(Non-Hashing)  
-### 😄Architecture encoding  
+### 😄Architecture Encoding  
 ***2019 NIPS*** D-VAE: A Variational Autoencoder for Directed Acyclic Graphs(`D-VAE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf)[[Code]](https://github.com/muhanzhang/D-VAE)  
 ***2019 NIPS*** NAT: Neural Architecture Transformer for Accurate and Compact Architectures(`NAT`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/beed13602b9b0e6ecb5b568ff5058f07-Paper.pdf)  
 ***2020 NIPS*** Bridging the Gap between Sample-based and One-shot Neural Architecture Search with BONAS[[Paper]](https://proceedings.neurips.cc/paper/2020/file/13d4635deccc230c944e4ff6e03404b5-Paper.pdf)[[Code]](https://github.com/pipilurj/BONAS)  
