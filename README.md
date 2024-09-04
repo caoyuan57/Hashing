@@ -456,8 +456,14 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄AutoML
 * #### Pruning  
 ***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
+***2019 ICCV*** MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning(`MetaPruning`)[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MetaPruning_Meta_Learning_for_Automatic_Neural_Network_Channel_Pruning_ICCV_2019_paper.pdf)[[Code]](https://github.com/liuzechun/MetaPruning)  
 ***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5924/5780)  
+***2020 IJCAI*** Channel Pruning via Automatic Structure Search(`ABCPruner`)[[Paper]](https://arxiv.org/pdf/2001.08565)[[Code]](https://github.com/lmbxmu/ABCPruner)  
+***2021 NIPS*** Only Train Once: A One-Shot Neural Network Training And Pruning Framework(`OTO`)[[Paper]](https://proceedings.neurips.cc/paper/2021/file/a376033f78e144f494bfc743c0be3330-Paper.pdf)[[Code]](https://github.com/tianyic/only_train_once)  
+***2022 ACCV*** Filter Pruning via Automatic Pruning Rate Search(`APRS`)[[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Sun_Filter_Pruning_via_Automatic_Pruning_Rate_Search_ACCV_2022_paper.pdf)  
+***2023 ICLR*** OTOV2: AUTOMATIC, GENERIC, USER-FRIENDLY(`OTOv2`)[[Paper]](https://arxiv.org/pdf/2303.06862)[[Code]](https://github.com/tianyic/only_train_once)  
+***2024 CVPR***  Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch(`ATO`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf)[[Code]](https://github.com/xidongwu/AutoTrainOnce)  
 * #### Quantization
-***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](HAQ: Hardware-Aware Automated Quantization with Mixed Precision)  
+***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
