@@ -358,18 +358,15 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)
 
 ***2024 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://ieeexplore.ieee.org/document/10440628)[[Code]]( https://github.com/sunyuxi/FSISR)
-## 😍Trajectory  
-### 😄Road   
-***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
-***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Code]](https://github.com/caoyuan57/HHL-Traj)  
-### 😄Road (Non-hashing)   
+## 😍Trajectory (Non-hashing)  
+### 😄Road  
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
 ***2021 CIKM*** Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics(`Toast`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482293)  
 ***2022 KDD*** Spatio-Temporal Trajectory Similarity Learning in Road Networks(`ST2Vec`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539375)[[Code]](https://github.com/zealscott/ST2Vec)  
 ***2023 DASFAA*** Trajectory Representation Learning Based on Road Network Partition for Similarity Computation（`PT2vec`）[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-30637-2.pdf?pdf=button)  
 ***2023 AAAI*** GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM(`GRLSTM`）[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25624/25396) [[Code]](https://github.com/slzhou-xy/GRLSTM)  
-### 😄Grid (Non-hashing)   
+### 😄Grid  
 * #### Deep-Unsupervised
 ***2018 ICDE*** Deep Representation Learning for Trajectory Similarity Computation(`t2vec`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509283)[[Code]](https://github.com/boathit/t2vec)  
 ***2019 ICDE*** Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach(`NeuTraj`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731427)[[Code]](https://github.com/yaodi833/NeuTraj)  
@@ -378,36 +375,33 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 KDD*** TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation(`TrajGAT`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539358)[[Code]](https://github.com/HuHaonan-CHN/TrajGAT)  
 ***2022 WWW*** Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification(`RSTS`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-022-01085-4.pdf?pdf=button)[[Code]](https://github.com/Like-China/TrajectorySim-RSTS-model)  
 ***2022 TKDE*** Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation(`AT2VEC+`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143478)  
-***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)   
+***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)  
+## 😍Trajectory(Hashing)  
+### 😄Road  
+***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
+***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Code]](https://github.com/caoyuan57/HHL-Traj)
+
 
 ## 😍Attack     
-### 😄Single-Modal 
+### 😄Single-Modal
 * #### Non-targeted
-***2018 IEEE Trans Cybern*** Adversarial Examples for Hamming Space Search(`HAG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8573146)[[Code]](https://github.com/yangerkun/Adversarial-examples-for-hamming-space-search)
-
-***2021 ICMR*** A Smart Adversarial Attack on Deep Hashing Based Image Retrieval(`SDHA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3460426.3463640)
-
-***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)
-
-* #### Targeted  
-***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master)
-
-***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)
-
-***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)[[Code]](https://github.com/xunguangwang/ProS-GAN)
-
-***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)[[Code]](https://github.com/SugarRuy/CVPR21_Transferred_Hash)
-
-***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612364)[[Code]](https://github.com/1nAzureSky/Precise-Target-Oriented-Attack-against-Deep-Hashing-based-Retrieval)
-
+***2018 IEEE Trans Cybern*** Adversarial Examples for Hamming Space Search(`HAG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8573146)[[Code]](https://github.com/yangerkun/Adversarial-examples-for-hamming-space-search)  
+***2021 ICMR*** A Smart Adversarial Attack on Deep Hashing Based Image Retrieval(`SDHA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3460426.3463640)  
+***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
+* #### Targeted
+***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master)  
+***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)  
+***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)[[Code]](https://github.com/xunguangwang/ProS-GAN)  
+***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)[[Code]](https://github.com/SugarRuy/CVPR21_Transferred_Hash)  
+***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612364)[[Code]](https://github.com/1nAzureSky/Precise-Target-Oriented-Attack-against-Deep-Hashing-based-Retrieval)  
 ### 😄Cross-Modal
-***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples`CMLA`[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
-
-​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning`DACM`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
-
-***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`l[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
-
-​***2023 ACM Trans Inf Syst*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
+***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples`CMLA`[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)  
+​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning`DACM`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)  
+***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`l[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)  
+​***2023 TOIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)  
+### 🛡️Defense
+***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)  
+***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
 
 ## 😍Long-Tail     
 ### 😄Single-Modal   
