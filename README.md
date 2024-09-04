@@ -1,4 +1,4 @@
-# Hashing based ANN Search Methods: <span style="color: blue"> Papers + Codes </span>
+  # Hashing based ANN Search Methods: <span style="color: blue"> Papers + Codes </span>
 ## 😍Survey  
 ### 😄Comprehensive  
 ### 😄Deep   
@@ -138,15 +138,24 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539928)  
+***2011 SIGIR*** Composite hashing with multiple information sources[[Paper]](https://dl.acm.org/doi/abs/10.1145/2009916.2009950)  
 ***2011 IJCAI*** Learning hash functions for cross-view similarity search(`CVH`)[[Paper]](https://www.ijcai.org/Proceedings/11/Papers/230.pdf)[[Code]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
+***2012 MM*** Compact kernel hashing with multiple features[[Paper]](https://dl.acm.org/doi/abs/10.1145/2393347.2396337)  
 ***2013 SIGKDD*** Inter-media hashing for large-scale retrieval from heterogeneous data sources(`IMH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2463676.2465274)[[Code]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
+***2013 TMM*** Effective multiple__feature hashing for large-scale near-duplicate video retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553136)  
 ***2013 MM*** Linear cross-modal hashing for efficient multimedia search(`LCMH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2502081.2502107)  
 ***2014 CVPR*** Collective matrix factorization hashing for multimodal data(`CMFH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Ding_Collective_Matrix_Factorization_2014_CVPR_paper.pdf)[[Code1]](https://github.com/SachJbp/Cross-Modal-Retrieval-using-CMFH)[[Code2]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2014 SIGIR*** Latent semantic sparse hashing for cross_x005f modal similarity search(`LSSH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609610)[[Code]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
+***2015 IJCAI*** Deep multimodal hashing with orthogonal regularization[[Paper]](https://www.ijcai.org/Proceedings/15/Papers/324.pdf)  
+***2015 TIP*** Multiview alignment hashing for efficient image search[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7006770)  
+***2015 MM*** Multi-view latent hashing for efficient multimedia search[[Paper]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)  
 ***2017 CVPR*** Cross-Modality Binary Code Learning via Fusion Similarity Hashing(`FSH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Cross-Modality_Binary_Code_CVPR_2017_paper.pdf)[[Code]](https://github.com/LynnHongLiu/FSH)  
+***2017 MM*** Discrete multi-view hashing for effective image retrieval[Paper]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981)  
+***2017 CVPR*** Cross-Modality_Binary_Code_Learning_via_Fusion_Similarity_Hashing[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Cross-Modality_Binary_Code_CVPR_2017_paper.pdf)
 ***2017 TCYB*** Semi-paired discrete hashing: Learning latent hash codes for semi-paired cross-view retrieval(`SPDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570179)  
 ***2018 TCSVT*** Robust and flexible discrete hashing for cross-modal similarity search(`RFDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7967838)[[Code]](https://github.com/Wangdi-Xidian/RFDH)  
-* #### Deep-Unsupervised  
+* #### Deep-Unsupervised
+***2015 TMM*** Learning Compact Hash Codes for Multimodal Representations Using Orthogonal Deep Structure[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154455)
 ***2018 AAAI*** Unsupervised Generative Adversarial Cross-modal Hashing(`UGACH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11263/11122)[[Code1]](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018)[[Code2]](https://github.com/zjmonk/UGACH)  
 ***2018 CVPR*** Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval(`SSAH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.pdf)[[Code1]](https://github.com/zyfsa/cvpr2018-SSAH)[[Code2]](https://github.com/SincereJoy/SSAH_CVPR2018)[[Code3]](https://github.com/lelan-li/SSAH)[[Code4]](https://github.com/haitao-hub-stu/SSAH)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2018 ECCV*** Attention-aware Deep Adversarial Hashing for Cross-Modal Retrieval(`ADAH`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xi_Zhang_Attention-aware_Deep_Adversarial_ECCV_2018_paper.pdf)[[Code]](https://github.com/zhongzhh8/Cross-Modal-Retrieval)  
