@@ -405,7 +405,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 
 ​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning`DACM`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
 
-***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`l[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
+***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
 
 ​***2023 ACM Trans Inf Syst*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
@@ -491,6 +491,6 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2023 ICLR*** OTOV2: AUTOMATIC, GENERIC, USER-FRIENDLY(`OTOv2`)[[Paper]](https://arxiv.org/pdf/2303.06862)[[Code]](https://github.com/tianyic/only_train_once)  
 ***2024 CVPR***  Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch(`ATO`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf)[[Code]](https://github.com/xidongwu/AutoTrainOnce)  
 * #### Quantization
-***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
+***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
