@@ -1,4 +1,6 @@
 # Hashing based ANN Search Methods: <span style="color: blue"> Papers + Codes </span>
+## 😍Survey  
+
 ## 😍Normal  
 ### 😄Single-Modal
 * #### Traditional-Unsupervised 
