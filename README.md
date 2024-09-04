@@ -379,7 +379,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ## 😍Trajectory(Hashing)  
 ### 😄Road  
 ***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
-***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation [[Code]](https://github.com/caoyuan57/HHL-Traj)
+***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Code]](https://github.com/caoyuan57/HHL-Traj)
 
 
 ## 😍Attack     
