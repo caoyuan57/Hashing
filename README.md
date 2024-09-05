@@ -1,8 +1,20 @@
 # Hashing based ANN Search Methods: <span style="color: blue"> Papers + Codes </span>
 ## 😍Survey  
 ### 😄Comprehensive  
+***2014 arXiv*** Hashing for Similarity Search: A Survey[[Paper]](https://arxiv.org/pdf/1408.2927)  
+***2016 Proceedings of the IEEE*** Learning to Hash for Indexing Big Data—A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360966)  
+***2017 TPAMI*** A Survey on Learning to Hash[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7915742)  
+***2018 IEEE ACCESS*** Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8170203)  
+***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
+***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
+***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
+***2023 TKDE*** Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144360)  
 ### 😄Deep   
+***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
+***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
 ### 😄Cross-Modal  
+***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
+***2023 TKDE*** Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144360)  
 
 ## 😍Normal  
 ### 😄Single-Modal
