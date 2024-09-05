@@ -500,10 +500,10 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ## 😍RAG(Non-Hashing)  
 
 ## 😍Prompt Learning(Non-Hashing) 
-***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision('CLIP')[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)
-***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models('CoCoOp')[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)
-***2022 IJCV*** Learning to Prompt for Vision-Language Models('CoOp')[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)
-***2023 CVPR*** MaPLe: Multi-modal Prompt Learning('MaPLe')[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
-***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters('CLIP-Adapter')[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
-***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models('PromptKD')[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)
+***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision('CLIP')[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
+***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models('CoCoOp')[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2022 IJCV*** Learning to Prompt for Vision-Language Models('CoOp')[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2023 CVPR*** MaPLe: Multi-modal Prompt Learning('MaPLe')[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
+***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters('CLIP-Adapter')[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models('PromptKD')[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
 ### 😄Stay tuned...
