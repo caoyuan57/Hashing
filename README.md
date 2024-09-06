@@ -185,7 +185,6 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2021 TKDE*** BATCH A Scalable Asymmetric Discrete Cross-Modal Hashing(`BATCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9001235)  
 ***2021 TMM*** Mask Cross-Modal Hashing Networks(`MDCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9055057)  
 ***2021 TPAMI*** MTFH A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval(`MTFH`)[[Paper]](http://i.uran.ru/webcab/system/files/journalspdf/ieee-transactions-pattern-analysis-and-machine-intelligence/ieee-transactions-pattern-analysis-and-machine-intelligence-2021-vol43-n-3/1-321.pdf)  
-***2021 AAAI*** Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval(`DAGNN`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16345/16152)  
 ***2021 MM*** Joint-teaching: Learning to Refine Knowledge for Resource-constrained Unsupervised Cross-modal Retrieval(`JOG`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475286)  
 ***2021 MM*** Local Graph Convolutional Networks for Cross-Modal Hashing(`LGCNH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475346)[[Code]](https://github.com/chenyd7/LGCNH)  
 ***2022 TKDE*** Correlation-Identity Reconstruction Hashing for Unsupervised Cross-modal Retrieval(`CIRH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9933831)[[Code]](https://github.com/XizeWu/CIRH)  
