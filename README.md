@@ -355,6 +355,8 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2023 APIN*** Online supervised collective matrix factorization hashing for cross-modal retrieval(`OSCMFH`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s10489-022-04189-6.pdf?pdf=button)[[Code]](https://github.com/liligithub5/OSCMFH)  
 ***2023 arXiv*** Three-Step Hashing for Online Cross-Modal Retrieval(`THOR`)[[Code]](https://github.com/yw-zhan/THOR)  
 ***2023 TIST*** ONION: Online Semantic Autoencoder Hashing for Cross-Modal Retrieval(`ONION`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3572032)  
+***2024 TCSVT*** Online Discriminative Cross-Modal Hashing(`ODCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356138)  
+***2024 TNNLS*** Random Online Hashing for Cross-Modal Retrieval(`ROH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10339645)[[Code]](https://github.com/kaihang-jiang/ROH)  
 * #### Traditional-Unsupervised  
 ***2022 APIN*** Online unsupervised cross-view discrete hashing for large-scale retrieval(`OUCDH`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s10489-021-03014-w.pdf?pdf=button)  
 * #### Deep-Supervised  
