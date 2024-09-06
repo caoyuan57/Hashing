@@ -5,10 +5,7 @@
 ***2016 Proceedings of the IEEE*** Learning to Hash for Indexing Big Data—A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360966)  
 ***2017 TPAMI*** A Survey on Learning to Hash[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7915742)  
 ***2018 IEEE ACCESS*** Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8170203)  
-***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
-***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
-***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
-***2023 TKDE*** Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144360)  
+
 ### 😄Deep   
 ***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
 ***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
@@ -527,12 +524,12 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
 
 ## 😍Prompt Learning(Non-Hashing) 
-***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision('CLIP')[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
-***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models('CoCoOp')[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
-***2022 IJCV*** Learning to Prompt for Vision-Language Models('CoOp')[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
-***2023 CVPR*** MaPLe: Multi-modal Prompt Learning('MaPLe')[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
-***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters('CLIP-Adapter')[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
-***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models('PromptKD')[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
+***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision(`CLIP`)[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
+***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models(`CoCoOp`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2022 IJCV*** Learning to Prompt for Vision-Language Models(`CoOp`)[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2023 CVPR*** MaPLe: Multi-modal Prompt Learning(`MaPLe`)[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
+***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
 
 ## 😍RAG(Non-Hashing)  
 ### 😄Stay tuned...
