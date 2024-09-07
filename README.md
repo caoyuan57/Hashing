@@ -159,7 +159,7 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2015 TIP*** Multiview alignment hashing for efficient image search[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7006770)  
 ***2015 MM*** Multi-view latent hashing for efficient multimedia search[[Paper]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)  
 ***2017 CVPR*** Cross-Modality Binary Code Learning via Fusion Similarity Hashing(`FSH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Cross-Modality_Binary_Code_CVPR_2017_paper.pdf)[[Code]](https://github.com/LynnHongLiu/FSH)  
-***2017 MM*** Discrete multi-view hashing for effective image retrieval[Paper]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981)  
+***2017 MM*** Discrete multi-view hashing for effective image retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981)  
 ***2017 TCYB*** Semi-paired discrete hashing: Learning latent hash codes for semi-paired cross-view retrieval(`SPDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570179)  
 ***2018 TCSVT*** Robust and flexible discrete hashing for cross-modal similarity search(`RFDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7967838)[[Code]](https://github.com/Wangdi-Xidian/RFDH)  
 * #### Deep-Unsupervised
