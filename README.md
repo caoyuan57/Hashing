@@ -291,7 +291,7 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2021 TIP*** Learning Efficient Hash Codes for Fast Graph-Based Data Similarity Retrieval(`HGNN`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9474952)  
 ***2021 MM*** Two-pronged Strategy Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475605)[[Code1]](https://github.com/christinecui/LAGNH)[[Code2]](https://github.com/chenyd7/LGCNH)   
 * #### Supervised
-* ***2019 ICCV*** Deep Supervised Hashing with Anchor Graph(`DAGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010953)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://www.scholat.com/personalPaperList.html?Entry=laizhihui&selectType=allPaper)  
+***2019 ICCV*** Deep Supervised Hashing with Anchor Graph(`DAGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010953)[[Code1]](https://github.com/swuxyj/DeepHash-pytorch)[[Code2]](https://www.scholat.com/personalPaperList.html?Entry=laizhihui&selectType=allPaper)  
 ***2020 TCYB*** Graph Convolutional Network Hashing(`GCN`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576642)[[Code]](https://github.com/zxJohnFly/GCN)  
 ***2021 MM*** Multi-label Pattern Image Retrieval via Attention Mechanism Driven Graph Convolutional Network(`GCN-AMD`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475695)   
 ***2021 MM*** Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Paper]](https://arxiv.org/pdf/2108.03914.pdf)[[Code]](https://github.com/christinecui/LAGNH)  
