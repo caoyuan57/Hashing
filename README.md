@@ -222,11 +222,10 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TMM*** Unsupervised Cross-modal Hashing via Semantic Text Mining(`UCH-STM`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10042979)[[Code]](https://github.com/rongchengtu1/UCHTIM)  
 ***2023 TPAMI*** Unsupervised Contrastive Cross-modal Hashing(`UCCH`)
 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782584)[[Code]](https://github.com/penghu-cs/UCCH)  
-***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)  
-***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
-***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TMM*** Unsupervised Dual Hashing Coding (UDC) on Semantic Tagging and Sample Content for Cross-modal Retrieval(`UDC`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494724)  
+***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
+***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
 ***2017 MM*** Adversarial Cross-Modal Retrieval(`ACMR`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123326)[[Code]](https://github.com/cuishuhao/ACMR)  
@@ -292,7 +291,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 TCSVT*** Semantic Disentanglement Adversarial Hashing for Cross-Modal Retrieval(`SDAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10175565)  
 ***2023 TKDE*** Discrete Robust Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283)  
 ***2023 MM*** Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612411)  
-***2023 SIGIR*** Data-aware proxy hashing for cross-modal retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591660)
+***2023 SIGIR*** Data-aware proxy hashing for cross-modal retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591660)     
+***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)  
 ## 😍Graph  
 ### 😄Single-Modal  
 * #### Unsupervised  
