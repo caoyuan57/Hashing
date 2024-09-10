@@ -223,7 +223,7 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TPAMI*** Unsupervised Contrastive Cross-modal Hashing(`UCCH`)
 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782584)[[Code]](https://github.com/penghu-cs/UCCH)  
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)  
-***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
+***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TMM*** Unsupervised Dual Hashing Coding (UDC) on Semantic Tagging and Sample Content for Cross-modal Retrieval(`UDC`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494724)  
