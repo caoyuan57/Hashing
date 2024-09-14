@@ -435,7 +435,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)[[Code]](https://github.com/xunguangwang/ProS-GAN)      
 ***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)[[Code]](https://github.com/SugarRuy/CVPR21_Transferred_Hash)    
 ***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612364)[[Code]](https://github.com/1nAzureSky/Precise-Target-Oriented-Attack-against-Deep-Hashing-based-Retrieval)     
-***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`PTA`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
+***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
 
 ### 😄Cross-Modal
 ***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples`CMLA`[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
