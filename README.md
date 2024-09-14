@@ -438,13 +438,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
 
 ### 😄Cross-Modal
-***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples`CMLA`[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
+***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
 
-​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning`DACM`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
+​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning(`DACM`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
 
-***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
+***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieval(`AACH`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
 
-​***2023 TIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
+​***2023 TIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval(`EQB2A`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
 ## 🛡️Defense
 ### 😄Single-Modal 
