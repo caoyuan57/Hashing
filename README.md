@@ -444,7 +444,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 
 ***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieva`AACH`[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
 
-​***2023 ACM Trans Inf Syst*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
+​***2023 TIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval`EQB2A`[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
 ## 🛡️Defense
 ### 😄Single-Modal 
