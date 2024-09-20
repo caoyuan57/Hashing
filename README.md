@@ -428,13 +428,14 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2018 IEEE Trans Cybern*** Adversarial Examples for Hamming Space Search(`HAG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8573146)[[Code]](https://github.com/yangerkun/Adversarial-examples-for-hamming-space-search)    
 ***2021 ICMR*** A Smart Adversarial Attack on Deep Hashing Based Image Retrieval(`SDHA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3460426.3463640)     
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)    
-***2024 ICMR*** Targeted Universal Adversarial Attack on Deep Hash Networks(`TUA`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658062)[[Code]](https://github.com/caoyuan57/TUA)
+
 * #### Targeted  
 ***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master)   
 ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)     
 ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)[[Code]](https://github.com/xunguangwang/ProS-GAN)      
 ***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)[[Code]](https://github.com/SugarRuy/CVPR21_Transferred_Hash)    
 ***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612364)[[Code]](https://github.com/1nAzureSky/Precise-Target-Oriented-Attack-against-Deep-Hashing-based-Retrieval)     
+***2024 ICMR*** Targeted Universal Adversarial Attack on Deep Hash Networks(`TUA`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658062)[[Code]](https://github.com/caoyuan57/TUA)    
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
 
 ### 😄Cross-Modal
