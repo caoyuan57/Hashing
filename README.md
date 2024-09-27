@@ -440,7 +440,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
 
 ### 😄Cross-Modal
-***2019 NeurIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
+***2019 NIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
 
 ​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning(`DACM`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
 
@@ -470,7 +470,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 ICLR*** Long-Tailed Recognition By Routing Diverse Distribution-Aware Experts(`RIDE`)[[Paper]](https://arxiv.org/pdf/2010.01809)[[Code]](https://github.com/frank-xwang/RIDE-LongTailRecognition)  
 ***2021 ICCV*** ACE: Ally Complementary Experts for Solving Long-Tailed Recognition in One-Shot(`ACE`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_ACE_Ally_Complementary_Experts_for_Solving_Long-Tailed_Recognition_in_One-Shot_ICCV_2021_paper.pdf)[[Code]](https://github.com/jrcai/ACE)  
 ***2022 CVPR*** Nested Collaborative Learning for Long-Tailed Visual Recognition(`NCL`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)[[Code]](https://github.com/Bazinga699/NCL)  
-***2022 NeurIPS*** Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition(`SADE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/dc6319dde4fb182b22fb902da9418566-Paper-Conference.pdf)[[Code]](https://github.com/Vanint/SADE-AgnosticLT)  
+***2022 NIPS*** Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition(`SADE`)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/dc6319dde4fb182b22fb902da9418566-Paper-Conference.pdf)[[Code]](https://github.com/Vanint/SADE-AgnosticLT)  
 ***2023 CVPR*** Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation(`SHIKE`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.pdf)[[Code]](https://github.com/jinyan-06/SHIKE)  
 ***2023 ICCV*** Local and Global Logit Adjustments for Long-Tailed Learning(`LGLA`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tao_Local_and_Global_Logit_Adjustments_for_Long-Tailed_Learning_ICCV_2023_paper.pdf)  
 ***2023 ICCV*** Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays through ML-GCN Augmentation[[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Seo_Enhancing_Multi-Label_Long-Tailed_Classification_on_Chest_X-Rays_Through_ML-GCN_Augmentation_ICCVW_2023_paper.pdf)[[Code]](https://github.com/lisaseo9704/2023_ICCVW_CVAMD_NCIA500)  
