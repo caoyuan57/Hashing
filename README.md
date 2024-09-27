@@ -440,6 +440,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)   
 
 ### 😄Cross-Modal
+* #### Non-targeted     
 ***2019 NIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
 
 ​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning(`DACM`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
