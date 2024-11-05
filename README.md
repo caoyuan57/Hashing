@@ -403,7 +403,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ## 😍Trajectory  
 ### 😄Grid   
 ***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
-***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Code]](https://github.com/caoyuan57/HHL-Traj)  
+***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679555)[[Code]](https://github.com/caoyuan57/HHL-Traj)  
 ### 😄Grid(Non-hashing)   
 * #### Deep-Unsupervised
 ***2018 ICDE*** Deep Representation Learning for Trajectory Similarity Computation(`t2vec`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509283)[[Code]](https://github.com/boathit/t2vec)  
