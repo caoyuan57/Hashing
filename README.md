@@ -464,7 +464,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TMM*** Semantic-enhanced Proxy-guided Hashing for Long-tailed Image Retrieval[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
-***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)
+***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)[[Code]](http://www.sdu-idea.cn/codes.php?name=LtCMH)        
 ### 😄Multi Experts(Non-Hashing) 
 * #### Deep-Supervised
 ***2020 ECCV*** Learning From Multiple Experts Self-paced Knowledge Distillation for Long-tailed Classification(`LFME`)[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_15.pdf?pdf=inline%20link)  
