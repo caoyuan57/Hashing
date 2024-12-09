@@ -461,7 +461,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ​***2023 TIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval(`EQB2A`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
 * #### Targeted
-***2023 TCSVT*** Targeted adversarial attack against deep cross-modal hashing retrieval(`TA-DCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10090409)[[Code]](https://github.com/tswang0116/TA-DCH)
+***2023 TCSVT*** Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval(`TA-DCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10090409)[[Code]](https://github.com/tswang0116/TA-DCH)
 
 ## 🛡️Defense
 ### 😄Single-Modal 
