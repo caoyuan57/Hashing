@@ -147,9 +147,13 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TMM*** Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval(`LSCSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050825)[[Code]](https://github.com/lzHZWZ/LSCSH)  
 ***2023 TIP*** Hierarchical Hashing Learning for Image Set Classification(`HHL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061433)  
 ***2023 TIP*** Multi-Label Hashing for Dependency Relations Among Multiple Objectives(`DRMH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061482)[[Code]](https://github.com/plk-t/DRMH)  
+***2023 MM*** Stepwise Refinement Short Hashing for Image Retrieval[[Paper]](https://openreview.net/pdf?id=9ol1HoBfir)  
+***2023 TIP*** Hierarchical Hashing Learning for Image Set Classification[[Paper]](https://ieeexplore.ieee.org/document/10061433)  
 ***2024 TMM*** Deep Hashing Network With Hybrid Attention and Adaptive Weighting for Image Retrieval(`HAAW`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301569)  
 ***2024 TMM*** Deep Neighborhood Structure-Preserving Hashing for Large-Scale Image Retrieval(`DNSH`)[[Paper]](https://ieeexplore.ieee.org/document/10177242)  
 ***2024 TMM*** Self-Paced Relational Contrastive Hashing for Large-Scale Image Retrieval(`SPRCH`)[[Paper]](https://ieeexplore.ieee.org/document/10234666)[[Code]](https://github.com/IMAG-LZY/SPRCH)  
+***2024 TMM*** Dual Self-Paced Hashing for Image Retrieval(`DSPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10517459)[[Code]](https://github.com/sunyuan-cs/DSPH)  
+***2024 TMM*** Relaxed Energy Preserving Hashing for Image Retrieval(`REPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10414409)[[Code]](https://github.com/sunyuan-cs/REPH_main)  
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539928)  
@@ -280,6 +284,7 @@ Large-Scale Cross-Modal Retrieval(`SCLCH`)[[Paper]](https://ieeexplore.ieee.org/
 ***2022 TMM*** Asymmetric Correlation Quantization Hashing
 for Cross-Modal Retrieval(`ACQH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517000)  
 ***2022 arXiv*** Adaptive Marginalized Semantic Hashing for Unpaired Cross-Modal Retrieval(`AMSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044981)[[Code]](https://github.com/LKYLKYZ/AMSH)  
+***2022 MM*** Feature and Semantic Views Consensus Hashing for Image Set Classification[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547876)  
 ***2023 TCSVT*** Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval(`DSPH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149001)[[Code]](https://github.com/QinLab-WFU/DSPH)  
 ***2023 TCSVT*** Disperse Asymmetric Subspace Relation Hashing
 for Cross-Modal Retrieval(`DASRH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155182)  
@@ -297,8 +302,12 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 TCSVT*** Semantic Disentanglement Adversarial Hashing for Cross-Modal Retrieval(`SDAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10175565)  
 ***2023 TKDE*** Discrete Robust Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283)  
 ***2023 MM*** Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612411)  
-***2023 SIGIR*** Data-aware proxy hashing for cross-modal retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591660)     
-***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)  
+***2023 SIGIR*** Data-aware proxy hashing for cross-modal retrieval[[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591660)    
+***2024 MM*** Robust Contrastive Cross-modal Hashing with Noisy Labels [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680564)  [[Code]](https://github.com/LonganWANG-cs/NRCH)  
+***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)   
+***2024 MM*** Distribution Consistency Guided Hashing for Cross-Modal Retrieval(`DCGH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680633)[[Code]](https://github.com/sunyuan-cs/2024-MM-DCGH)  
+***2024 IJCAI*** Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval(`DSFH`)[[Paper]](https://www.ijcai.org/proceedings/2024/505)[[Code]](https://github.com/sunyuan-cs/24-IJCAI-DSFH)  
+***2024 AAAI***  Dual Self-Paced Cross-Modal Hashing[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)  
 ## 😍Graph  
 ### 😄Single-Modal  
 * #### Unsupervised  
