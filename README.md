@@ -5,12 +5,13 @@
 ***2016 Proceedings of the IEEE*** Learning to Hash for Indexing Big Data—A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360966)  
 ***2017 TPAMI*** A Survey on Learning to Hash[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7915742)  
 ***2018 IEEE ACCESS*** Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8170203)  
-***2024 TGRS*** Hash-Based Remote Sensing Image Retrieval(`HBRRSIR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599496)  
-***2024 TKDE*** Multi-Modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/abstract/document/10144360)  
+
 
 ### 😄Deep   
 ***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
 ***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
+***2024 TGRS*** Hash-Based Remote Sensing Image Retrieval(`HBRRSIR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599496)  
+
 ### 😄Cross-Modal  
 ***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
 ***2023 TKDE*** Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144360)  
@@ -340,7 +341,35 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441/30717)   
 ***2024 MM*** Distribution Consistency Guided Hashing for Cross-Modal Retrieval(`DCGH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680633)[[Code]](https://github.com/sunyuan-cs/2024-MM-DCGH)  
 ***2024 IJCAI*** Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval(`DSFH`)[[Paper]](https://www.ijcai.org/proceedings/2024/505)[[Code]](https://github.com/sunyuan-cs/24-IJCAI-DSFH)  
-***2024 AAAI***  Dual Self-Paced Cross-Modal Hashing[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)  
+***2024 IJCAI*** Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval (`CTCH`)[[Paper]](https://www.ijcai.org/proceedings/2024/0136.pdf)  
+***2024 IJCAI*** Enhancing Cross-Modal Retrieval via Visual-Textual Prompt Hashing(`VTPH`)[[Paper]](https://www.ijcai.org/proceedings/2024/0069.pdf)  
+***2024 MM*** AVHash Joint Audio-Visual Hashing for Video Retrieval(`AVHash`)[[Paper]]https://dl.acm.org/doi/abs/10.1145/3664647.3681266)[[Code]](https://github.com/iFamilyi/AVHash)  
+***2024 MM*** FedCAFE Federated Cross-Modal Hashing with Adaptive Feature Enhancement(`FedCAFE`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681319)[[Code]](https://github.com/FtAhub/FedCAFE)  
+***2024 TBD*** Deep Cross-Modal Hashing with Ranking Learning for Noisy Labels(`DHRL`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10587102)[[Code]](https://github.com/zzidlezz/DHRL)    
+***2024 TCSVT*** Bi-Direction Label-Guided Semantic Enhancement for Cross-Modal Hashing(`BiLGSEH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10813461/)[[Code]](https://github.com/yileicc/BiLGSEH)  
+***2024 TCSVT*** CLIP-Based Knowledge Distillation Hashing for Cross-Modal Retrieval(`CKDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10382576)  
+***2024 TCSVT*** Deep Lifelong Cross-Modal Hashing(`DLCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10649647)[[Code]](https://github.com/HqiLi/DLCH)  
+***2024 TCSVT*** Joint Semantic Preserving Sparse Hashing for Cross-Modal Retrieval(`JSPSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10226248)[[Code]](https://github.com/hutt94/JSPSH)  
+***2024 TCSVT*** Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval(`MIEH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10345597/)[[Code]](https://github.com/yxinwang/MIEH)  
+***2024 TCSVT*** Semi-Supervised Semi-Paired Cross-Modal Hashing(`SSCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10242093)  
+***2024 TCYB*** Asymmetric Supervised Fusion-Oriented Hashing for Cross-Modal Retrieval(`ASFOH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10044163)  
+***2024 TIP*** Multi-Relational Deep Hashing for Cross-Modal Search(`MRDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10502297)  
+***2024 TKDE*** Contrastive Incomplete Cross-Modal Hashing(`CICH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10557685)[[Code]](https://github.com/DarrenZZhang/CICH)  
+***2024 TKDE*** Contrastive Multi-Bit Collaborative Learning for Deep Cross-Modal Hashing(`CMCL`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10557685)[[Code]](https://github.com/sky-wz/CMCL)  
+***2024 TKDE*** Deep Multi-Modal Hashing With Semantic Enhancement for Multi-Label Micro-Video Retrieval(`DMHSE`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10330746)[[Code]](https://github.com/haoyi199815/DMHSE)  
+***2024 TKDE*** Similarity Transitivity Broken-Aware Multi-Modal Hashing(`STBMH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10549834)  
+***2024 TKDE*** Structures Aware Fine-Grained Contrastive Adversarial Hashing for Cross-Media Retrieval(`SAFGCAH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10416208)  
+***2024 TKDE*** Temporal Social Graph Network Hashing for Efficient Recommendation(`TSGNH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10387583)[[Code]](https://github.com/zzmylq/TSGNH)  
+***2024 TMM*** Deep Neighborhood-Preserving Hashing With Quadratic Spherical Mutual Information for Cross-Modal Retrieval(`DNpH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10379137)[[Code]](https://github.com/QinLab-WFU/DNpH)  
+***2024 TMM*** Deep Ranking Distribution Preserving Hashing for Robust Multi-Label Cross-Modal Retrieval(`RDPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10415256)  
+***2024 TMM*** Multi-Facet Weighted Asymmetric Multi-Modal Hashing Based on Latent Semantic Distribution(`FISMH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10428107)  
+***2024 TMM*** Scalable Discrete and Asymmetric Unequal Length Hashing Learning for Cross-Modal Retrieval(`SDAULH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10458393)  
+***2024 TNNLS*** Graph Convolutional Multi-Label Hashing for Cross-Modal Retrieval(`GCMLH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10605116)  
+***2024 TNNLS*** Cross-Modal Hashing Method With Properties of Hamming Space: A New Perspective(`SCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10506992)[[Code]](https://github.com/hutt94/SCH)  
+
+
+
+
 ## 😍Graph  
 ### 😄Single-Modal  
 * #### Unsupervised  
