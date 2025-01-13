@@ -24,6 +24,13 @@
 ***2011 CVPR*** Iterative quantization: A procrustean approach to learning binary codes(`PCAH`)  
 ***2011 CVPR*** Iterative quantization: A procrustean approach to learning binary codes(`ITQ`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995432)[[Code]](http://sglab.kaist.ac.kr/Spherical_Hashing/)  
 ***2014 TCYB*** Density sensitive hashing(`DSH`)[[Paper]](https://arxiv.org/pdf/1205.2930v1.pdf)[[Code]](http://www.cad.zju.edu.cn/home/dengcai/Data/DSH.html)  
+***2024 TKDE*** A Trajectory-Oriented Locality-Sensitive Hashing Method for User Identiﬁcation(`UI-LSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10285075)  
+***2024 TKDE*** DB-LSH 2.0: Locality-Sensitive Hashing With Query-Based Dynamic Bucketing(`DB-LSH 2.0`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10184454)  
+***2024 TKDE*** Parallel and External-Memory Construction of Minimal Perfect Hash Functions With PTHash(`PTHash`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10210677)  
+***2024 TKDE*** Refining Codes for Locality Sensitive Hashing(`LSH Refining`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10192056)  
+***2024 TMM*** Efficient Unsupervised Video Hashing With Contextual Modeling and Structural Controlling(`EUVH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10443557)  
+***2024 TMM*** Perceptual Image Hashing Using Feature Fusion of Orthogonal Moments(`FrCHFMs`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10566050)  
+
 * #### Deep-Unsupervised  
 ***2015 CVPR*** Deep Hashing for Compact Binary Codes Learning(`DH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298862)  
 ***2016 CVPR/2019 TPAMI*** Learning compact binary descriptors with unsupervised deep neural networks(`DeepBit`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780502)[[Code]](https://github.com/kevinlin311tw/cvpr16-deepbit)  
@@ -65,6 +72,14 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2024 TCSVT*** Unsupervised Deep Hashing With Fine-Grained Similarity-Preserving Contrastive Learning for Image Retrieval(`FSCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10266362)[[Code]](https://github.com/huanglab-research/FSCH)  
 ***2024 TIP*** Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing(`HHCH`)[[Paper]](https://ieeexplore.ieee.org/document/10460427)[[Code]](https://github.com/HUST-IDSM-AI/HHCH)  
 ***2024 TOMM*** HARR: Learning Discriminative and High-Quality Hash Codes for Image Retrieval(`HARR`)[[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3627162)  
+***2024 AAAI*** Effective Comparative Prototype Hashing for Unsupervised Domain Adaptation (`CPH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28674)[[Code]](https://github.com/christinecui/CPH)  
+***2024 IJCAI*** Contrastive Transformer Masked Image Hashing for Degraded Image Retrieval(`CTMIH`)[[Paper]](https://www.ijcai.org/proceedings/2024/0135.pdf)  
+***2024 WWW*** Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing(`BRCD`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645440)[[Code]](https://github.com/hly1998/BRCD)  
+***2024 TCYB*** Sensitive Binary Hashing Autoencoder for Image Retrieval(`SBHA`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10123358)  
+***2024 TIP*** Multiple Riemannian Kernel Hashing for Large-Scale Image Set Classification and Retrieval(`MRKH`)[[Paper]](Multiple Riemannian Kernel Hashing for Large-Scale Image Set Classification and Retrieval)  
+***2024 TMM*** Self-Supervised Temporal Sensitive Hashing for Video Retrieval(`TSVH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10492503)  
+***2024 TNNLS*** PrivFR: Privacy-Enhanced Federated Recommendation With Shared Hash Embedding(`PrivFR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10506199)  
+
 * #### Deep-Supervised  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609600)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
 ***2015 CVPR*** Supervised Discrete Hashing(`SDH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_Supervised_Discrete_Hashing_2015_CVPR_paper.pdf)[[Code]](https://github.com/TreezzZ/SDH_PyTorch)  
