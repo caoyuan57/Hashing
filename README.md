@@ -5,6 +5,8 @@
 ***2016 Proceedings of the IEEE*** Learning to Hash for Indexing Big Data—A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360966)  
 ***2017 TPAMI*** A Survey on Learning to Hash[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7915742)  
 ***2018 IEEE ACCESS*** Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8170203)  
+***2024 TGRS*** Hash-Based Remote Sensing Image Retrieval(`HBRRSIR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599496)  
+***2024 TKDE*** Multi-Modal Hashing for Efficient Multimedia Retrieval: A Survey[[Paper]](https://ieeexplore.ieee.org/abstract/document/10144360)  
 
 ### 😄Deep   
 ***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
