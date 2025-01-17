@@ -270,10 +270,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 TMM*** Unsupervised Dual Hashing Coding (UDC) on Semantic Tagging and Sample Content for Cross-modal Retrieval(`UDC`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494724)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
-***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)  
-***2024 MM*** Similarity Preserving Transformer Cross-Modal Hashing for Video-Text Retrieval(`SPTCH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681606)  
-***2024 TKDE*** Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval(`DHaPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10530441/)  
-***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
+***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)    
 
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -374,6 +371,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TMM*** Scalable Discrete and Asymmetric Unequal Length Hashing Learning for Cross-Modal Retrieval(`SDAULH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10458393)  
 ***2024 TNNLS*** Graph Convolutional Multi-Label Hashing for Cross-Modal Retrieval(`GCMLH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10605116)  
 ***2024 TNNLS*** Cross-Modal Hashing Method With Properties of Hamming Space: A New Perspective(`SCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10506992)[[Code]](https://github.com/hutt94/SCH)  
+***2024 MM*** Similarity Preserving Transformer Cross-Modal Hashing for Video-Text Retrieval(`SPTCH`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681606)  
+***2024 TKDE*** Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval(`DHaPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10530441/)  
+***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
 
 
 
