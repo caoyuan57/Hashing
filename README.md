@@ -512,13 +512,17 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 * #### Deep-Unsupervised
 ***2018 ICDE*** Deep Representation Learning for Trajectory Similarity Computation(`t2vec`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509283)[[Code]](https://github.com/boathit/t2vec)  
 ***2019 ICDE*** Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach(`NeuTraj`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731427)[[Code]](https://github.com/yaodi833/NeuTraj)  
+***2020 IJCAI*** Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching(`Traj2SimVec`)[[Paper]](https://dl.acm.org/doi/pdf/10.5555/3491440.3491884)[[Code]](https://github.com/zyr17/Traj2SimVec)   
 ***2021 ICDE*** T3S: Effective Representation Learning for Trajectory Similarity Computation(`T3S`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458934)  
+***2022 CC*** Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation(`CSTRM`)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0140366422000019)    
 ***2022 CIKM*** Efficient Trajectory Similarity Computation with Contrastive Learning(`CL-TSim`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557308)[[Code]](https://github.com/LIWEIDENG0830/CL-TSim)  
 ***2022 KDD*** TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation(`TrajGAT`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539358)[[Code]](https://github.com/HuHaonan-CHN/TrajGAT)  
 ***2022 WWW*** Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification(`RSTS`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-022-01085-4.pdf?pdf=button)[[Code]](https://github.com/Like-China/TrajectorySim-RSTS-model)  
 ***2022 TKDE*** Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation(`AT2VEC+`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143478)  
 ***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)   
-
+***2023 AAAI*** Contrastive Pre-training with Adversarial Perturbations for Check-in Sequence Representation Learning(`CACSR`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25546)[[Code]](https://github.com/LetianGong/CACSR)    
+***2023 ICDE*** Contrastive Trajectory Similarity Learning with Dual-Feature Attention(`TrajCL`)[[Paper]](https://arxiv.org/abs/2210.05155)[[Code]](https://github.com/changyanchuan/TrajCL)    
+***2024 AAAI*** KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding(`KGTS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28672))
 ### 😄Road(Non-hashing)   
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
@@ -526,6 +530,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2022 KDD*** Spatio-Temporal Trajectory Similarity Learning in Road Networks(`ST2Vec`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539375)[[Code]](https://github.com/zealscott/ST2Vec)  
 ***2023 DASFAA*** Trajectory Representation Learning Based on Road Network Partition for Similarity Computation（`PT2vec`）[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-30637-2.pdf?pdf=button)  
 ***2023 AAAI*** GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM(`GRLSTM`）[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25624/25396) [[Code]](https://github.com/slzhou-xy/GRLSTM)  
+***2023 ICDE*** Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics(`START`）[[Paper]](https://ieeexplore.ieee.org/abstract/document/10184736) [[Code]](https://github.com/aptx1231/START)  
 
 ## 😍Attack     
 ### 😄Single-Modal 
