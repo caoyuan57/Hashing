@@ -568,6 +568,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ### 😄Single-Modal 
 ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)  
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
+***2023 TIFS*** Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval(`SAAT`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189878)[[Code]](https://github.com/xandery-geek/SAAT)
 
 
 ## 😍Long-Tail     
